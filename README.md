@@ -8,9 +8,9 @@ This portfolio has two goals:
 
 ## contents
 
-1) How this portfolio is organised
-2) [personal](./100_personal.html)
-3) official CV
+1) How this portfolio is organised  
+2) [personal](./100_personal.md)    
+3) official CV  
 
  
 
