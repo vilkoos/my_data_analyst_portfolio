@@ -1,9 +1,9 @@
 
 **personal**
 
-| me 2010 | gov. approved me | me 1986 | might be me |
-|--------- | ---------------- | ------- |
-| ![](http://i.imgur.com/aEqu25W.jpg) | ![](http://i.imgur.com/el41p3w.jpg) | to come | ![](http://i.imgur.com/4raNpAh.jpg)
+| me 2010 | gov. approved me | me 1986 | might be me |  
+|--------- | ---------------- | ------- |  
+| ![](http://i.imgur.com/aEqu25W.jpg) | ![](http://i.imgur.com/el41p3w.jpg) | to come | ![](http://i.imgur.com/4raNpAh.jpg)  
 
 **hero to model myself on**: [Herbert Alexander Simon](http://en.wikipedia.org/wiki/Herbert_A._Simon "simon") (his [Nobel prize bio)](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-bio.html "nobel simon")
  
