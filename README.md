@@ -11,13 +11,13 @@ This portfolio has two goals:
 1) How this portfolio is organised  
 2) [personal](./100_personal.md)    
 3) official CV  
-
- 
-
-
+4) SOLL: goal to attain    
+5) IST : where I'm now  
+6) PLAN: how to achieve my goal  
+7) proofs and examples of achievements   
 
 ----------
-**NOTES**
+**NOTE**
 
 (1) As a lecturer/engineer/social scientist/critical thinker, I can't help but wonder: 
 - did the educational innovators -finally- get it right?
