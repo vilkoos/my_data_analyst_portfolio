@@ -1,4 +1,4 @@
-my_data_analyst_portfolio
+my data analyst portfolio
 =========================
 
 This portfolio has two goals:
@@ -11,9 +11,9 @@ This portfolio has two goals:
 1) How this portfolio is organised  
 2) [personal](./100_personal.md)    
 3) official CV  
-4) [SOLL: goal to attain](./400_ambition.md)    
-5) IST: . . where I'm now  
-6) PLAN: how to achieve my goal  
+4) SOLL. . : [goal to attain](./400_ambition.md)    
+5) IST . . : where I'm now  
+6) PLAN. . : how to achieve my goal  
 7) proofs and examples of achievements   
 
 ----------

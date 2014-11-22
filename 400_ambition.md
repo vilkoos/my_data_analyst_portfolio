@@ -17,6 +17,9 @@ If you have exciting data analysis projects, please let me know; e.g.:
 - brainstorm about the possibility to exploit "big data" for the flourishing of your organisation
 - in-house statistics/ data analysis/ business intelligence training 
 
+
+----------
+
 **NOTE** 
-[1] although I will mainly work for fun, it is not my intention to spoil the market.  
+(1) although I will mainly work for fun, it is not my intention to spoil the market.  
 So, hiring me definitely will involve fun, but it is not dirt cheap.
