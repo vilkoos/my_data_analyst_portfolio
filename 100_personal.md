@@ -6,7 +6,7 @@
 **Q&A**  
 **Q:** *(by OK cupid)* what is the most private confession you dare to share?  
 **A:** to have adventures I go to the library.  
-**Q:** *(by tumblr)* which country you like to would visit if only you could?  
+**Q:** *(by tumblr)* which country you would like to visit if only you could?  
 **A:** Utopia  
 
 **hero to model myself on**: [Herbert Alexander Simon](http://en.wikipedia.org/wiki/Herbert_A._Simon "simon") (his [Nobel prize bio)](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-bio.html "nobel simon")
