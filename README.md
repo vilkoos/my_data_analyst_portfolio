@@ -12,7 +12,7 @@ This portfolio has two goals:
 2) [personal](./100_personal.md)    
 3) official CV  
 4) SOLL. . : [goal to attain](./400_ambition.md)    
-5) IST . . . . : where I'm now  
+5) IST . . . .: where I'm now  
 6) PLAN. . : how to achieve my goal  
 7) proofs and examples of achievements   
 
@@ -21,8 +21,8 @@ This portfolio has two goals:
 
 (1) As a lecturer/engineer/social scientist/critical thinker, I can't help but wonder: 
 - did the educational innovators -finally- get it right?  
-- are portfolios the next big thing in education?  
-- if so, what is a a good portfolio, how do you do it?  
+- are portfolios the next big thing in education?   
+- if so, what is a a good portfolio, how do you do it?   
 
  My way of answering these questions: try, fail, next time fail better.
 
