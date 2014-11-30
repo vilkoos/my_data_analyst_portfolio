@@ -9,7 +9,7 @@ It is my ambition to become the worlds first **guerilla data annalist**.
 (i.e. use the tools of data science to surprise the powers that be.)
 
 What I mean by guerilla data analysis is:   
-1 - identify a relevant societal discussion,  
+1 - identify a relevant hot societal discussion,  
 2 - collect all the relevant data that can be found on the internet,  
 3 - clean and merge the data,  
 4 - do the data analysis,  
