@@ -14,7 +14,7 @@ This portfolio has two goals:
 4) SOLL. . : [goal to attain](./400_ambition.md)    
 5) IST . . . .:[ where I'm now](./500_where_I_am_now.md)  
 6) PLAN. . : how to achieve my goal  
-7) proofs and examples of achievements   
+7) [proofs and examples](./700_proofs.md) of achievements   
 
 ----------
 **NOTE**
