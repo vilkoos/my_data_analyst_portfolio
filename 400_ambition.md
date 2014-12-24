@@ -1,7 +1,7 @@
 
 ![](http://i.imgur.com/EUqpWPt.jpg)
 
-In the summer of 2016 I will retire as a lecturer (comp.sci. & bus.admin.).  
+In the summer of 2016 I will retire as a lecturer.  
 The plan is to fill retirement with daring and fun activities.
 
 ### ambition
@@ -18,7 +18,7 @@ What I mean by guerilla data analysis is:
 The only thing radical about this is that I intent to be uncompromisingly scientific and truthful.  
 (I can afford to be, I'm retired, so I'm beyond material gain or a craving for academic status.)  
 
-**Corollary**: Retirement is the new -true- tenure.
+**Corollary**: Retirement is the new tenure.
 
 ![](http://i.imgur.com/Ikxwitb.jpg)
 
@@ -26,12 +26,5 @@ The only thing radical about this is that I intent to be uncompromisingly scient
 My identification with captain Wilard is not unbounded.  
 I do not plan to infiltrate behind enemy lines to strategically assassinate evil masterminds.  
 
-**PS 2**
-Do not be scared off by my Wilard persona.  
-If you have exciting data analysis projects please contact me.
-Examples of exciting projects are:
-- data wrangling /cleaning /collecting (this is my idea of fun) 
-- brainstorm about the possibility to exploit "big data" for the flourishing of your organisation
-- in-house statistics/ data analysis/ business intelligence training 
 
 
