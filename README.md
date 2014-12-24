@@ -9,8 +9,8 @@ This portfolio has two goals:
 ## contents
 
 1) How this portfolio is organised  
-2) [personal](./100_personal.md)    
-3) official CV  
+2) [Personal](./100_personal.md)    
+3) Official CV  
 4) SOLL. . : [goal to attain](./400_ambition.md)    
 5) IST . . . .:[ where I'm now](./500_where_I_am_now.md)  
 6) PLAN. . : how to achieve my goal  
