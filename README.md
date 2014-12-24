@@ -21,6 +21,6 @@ This portfolio has two goals:
 
 (1) As a lecturer and critical thinker, I can't help but wonder:  
 Are portfolios the next big thing in education?   
-If so, what is a a good portfolio, how do you do it?
+If so, what is a a good portfolio, how do you do it?  
 My way of answering these questions: try, fail, next time fail better.
 
