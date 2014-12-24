@@ -27,6 +27,7 @@ There is a second reason I like Conways definition. if I understand him correctl
 ## Data science according to O'Neil and Schutt
 Cathy O'Neil and Rachel Schutt wrote an book: [Doing data science](http://www.amazon.com/Doing-Data-Science-Cathy-ONeil/dp/1449358659). In chapter 1: what is data science, they visualize the relevant competencies in a figure like this one.
 ![my competencies](http://i.imgur.com/QmS4MPY.jpg)
+
 On the horizontal axis we see the competencies a data scientist must have. On the vertical axis the estimated competency score of myself is displayed (where 100 = 100% of what is needed). The dark blue areas display competencies about which I'm pretty sure. The light blue areas display competencies that I have, but might be not that relevant for doing data science.
 
 Some competencies clearly need work
@@ -45,6 +46,23 @@ Some competencies are already OK.
 - Domain Expertise. In a sense there can be no such thing as enough domain expertise, but with the domain I plan to tackle - public policy - I'm pretty familiar.       
 
 According to O'Neil and Schutt I'm clearly on my way to being a full fetched data annalist. However there are some areas that still need work when we accept their definition of data science. 
+
+## What kind of data scientist? 
+We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
+
+One way to partition would be after domain of expertise. In my case that would be public policy.
+
+An other way would be to partition by used techniques. Basically I need techniques to:
+- collect data from the internet, 
+- wrangle the data,
+- do the analysis,
+- publish on  the internet.
+
+What I in all likelihood do not need is techniques for [Big Data](http://en.wikipedia.org/wiki/Big_data) (i.e. parallel processing massive distributed data sets).    
+
+So in terms of Conway I want to be a "traditional" policy researcher with "small" data hacking skills. 
+I think I'm well on my way to that goal (70 to 90% of the competencies already are in place).   
+But there is clearly still some work to do.
 
 ## Notes
 (1) now at the time of writing is November 2014.  
