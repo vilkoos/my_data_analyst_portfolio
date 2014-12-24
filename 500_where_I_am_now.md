@@ -58,7 +58,7 @@ An other way would be to partition by used techniques. Basically I need techniqu
 - do the analysis,
 - publish on  the internet.
 
-There is in all likelihood no needed for techniques for [Big Data](http://en.wikipedia.org/wiki/Big_data) (i.e. parallel processing massive distributed data sets).    
+There is in all likelihood no need for techniques for [Big Data](http://en.wikipedia.org/wiki/Big_data) (i.e. parallel processing massive distributed data sets).    
 
 So in terms of Conway I want to be a "traditional" policy researcher with "small" data hacking skills.  
 I think I'm well on my way to that goal (70 to 90% of the competencies already are in place).   
