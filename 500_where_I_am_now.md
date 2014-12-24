@@ -45,7 +45,7 @@ Some competencies are already OK.
 - Mathematics, needed is linear algebra and calculus, I can do that (and much more, e.g. numerical methods).
 - Domain Expertise. In a sense there can be no such thing as enough domain expertise, but with the domain I plan to tackle - public policy - I'm pretty familiar.       
 
-According to O'Neil and Schutt I'm clearly on my way to being a full fetched data annalist. However there are some areas that still need work when we accept their definition of data science. 
+According to O'Neil and Schutt I'm clearly on my way to being a fully fletched data annalist. However there are some areas that still need work when we accept their definition of data science. 
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
