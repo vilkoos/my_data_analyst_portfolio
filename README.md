@@ -8,13 +8,12 @@ This portfolio has two goals:
 
 ## contents
 
-1) How this portfolio is organised  
-2) [Personal](./100_personal.md)    
-3) Official CV  
-4) SOLL. . : [goal to attain](./400_ambition.md)    
-5) IST . . . .:[ where I'm now](./500_where_I_am_now.md)  
-6) PLAN. . : how to achieve my goal  
-7) [Proofs](./700_proofs.md) and examples of achievements   
+1) [Personal](./100_personal.md)    
+2) [Official CV](./200_cv.md)  
+3) SOLL. . : [goal to attain](./400_ambition.md)    
+4) IST . . . .:[ where I'm now](./500_where_I_am_now.md)  
+5) PLAN. . : how to achieve my goal  
+6) [Proofs](./700_proofs.md) and examples of achievements   
 
 ----------
 **NOTE**
