@@ -14,13 +14,13 @@ The respected data scientist [Drew Conway](http://drewconway.com/) explains it a
 
 ![](http://i.imgur.com/tGTySSb.jpg)
 
-According to Conway data science is a harmonious mix of: statistics, computer science and subject matters expertise. To be a data scientist is to be a jack of at least these three trades(2). 
+According to Conway data science is a harmonious mix of: statistics, computer science and subject matters expertise. To be a data scientist is to be a jack of at least these three trades(2) (for a critique see 6). 
 
 I like this figure as a high level 'definition'.  
 
 One reason I like it is that it makes it easy to point out where I started from. In 1986 I was awarded a masters degree(3) in what Conway labels as traditional research. To be specific, I have a master in policy evaluation and methods and techniques of social research (4). Not only am I a traditional research master, in 1986 I also had acquired considerable hacking skills (i.e. programming in Assembler, Fortran, Basic, Pascal and various database and statistical packages).  
 
-By then, I also had found my passions: "torturing the data until they confess" and "Hacking". (the deep drives of data science according to Conway). And I must confess to be endlessly fascinated by the dark arts of choosing the right question to answer - and using the right yardstick to measure -. (5)
+By then, I also had found my passions: "torturing the data until they confess" and "Hacking". (the deep drives of data science according to Conway). And I must confess to be endlessly fascinated by the dark arts of choosing the "right" question to answer - and using the "right" yardstick to measure -. (5)
  
 There is a second reason I like Conways definition. if I understand him correctly, I'm a data scientist since 1986.
 
@@ -77,4 +77,6 @@ are true, but there is more to it than just that (although the second definition
 
 (4) Some might be unimpressed by the claim to be a social "scientist". Those who are not impressed probably associate social with: vague, political and partisan. The unimpressed are right in the sense that is indeed what most sociologist actually are. However, these critics in their conventional correctness - like lady Thatcher - completely miss the crucial point. There is such a thing as society. To deny it is, scientifically speaking, worse than to doubt evolution or global warming. The unimpressed are also right in the fact that, to be scientifically sound, while doing sociology, is damn difficult.
 
-(5) I'm a well trained policy analyst, i.e. you can give me any set of policy relevant data and I can construct a scientific narrative that supports the policy that the officeholders in their infinite wisdom already had chosen. Conversely, you can give me any scientific report that the opposition would like to use. Using the same data it is always possible to reach completely different conclusions. The miraculous thing is that you can this without deceiving or cheating. The trick is to ask the data the "right" question and choose the "right" yardsticks to measure.     
+(5) I'm a well trained policy analyst, i.e. you can give me any set of policy relevant data and I can construct a scientific narrative that supports the policy that the officeholders in their infinite wisdom already had chosen. Conversely, you can give me any scientific report that the opposition would like to use. Using the same data it is always possible to reach completely different conclusions. The miraculous thing is that you can this without deceiving or cheating. The trick is to ask the data the "right" question and choose the "right" yardsticks to measure. 
+
+(6) Some people do not belief that there is such a thing as a master of all three trades. The set of people that are AND statisticians AND can program AND are subject matter experts is empty, no such people exist, only [unicorns live at that intersection](http://robjhyndman.com/hyndsight/am-i-a-data-scientist/).    
