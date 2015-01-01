@@ -12,7 +12,7 @@ This portfolio has two goals:
 2) [Official CV](./200_cv.md)  
 3) SOLL. . : [goal to attain](./400_ambition.md)    
 4) IST . . . .:[ where I'm now](./500_where_I_am_now.md)  
-5) PLAN. . : how to achieve my goal  
+5) PLAN. . : [how to](./600_plan) achieve my goal  
 6) [Proofs](./700_proofs.md) and examples of achievements   
 
 ----------
