@@ -27,4 +27,16 @@ See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)
 
 -----
 
+ .
+
+## Papers
+
+Here are some papers I wrote with [RUG Artificial Intelligence](http://www.rug.nl/masters/artificial-intelligence/) students in 2009 - 2010.
+
+- A Hand Contour Recognition, Comparison Of K - Nearest Neighbour Versus Feed - Forward Neural Net [issuu](http://issuu.com/vilkoos/docs/paper_rug_2009_handrecognition)
+- Sound recognition with CPSP Texture map counts based classification vs. regions based classification [issuu](http://issuu.com/vilkoos/docs/paper_rug_2010_sound_recognition)
+- Human Benchmarking for Automated Sound Recognition, Human performance on machine learning tasks [issuu](http://issuu.com/vilkoos/docs/paper_rug_2009_perception_experimen)
+
+---
+
 more to come
