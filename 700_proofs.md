@@ -1,7 +1,8 @@
 ---
 ## Website
 
-Here is a link to my statistics tmblr: [explore and explain stats](http://exexstats.tumblr.com/)  
+Here is a link to my statistics tmblr [explore and explain stats](http://exexstats.tumblr.com/)  
+
  .
 
 ---
@@ -15,6 +16,7 @@ Assignment 2 of the November 2014 Coursera course [Reproducible Research](https:
 
 - Merging data on six Excel sheets into a .csv file and documenting the result in a code book.  
 See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)  
+
  .
 
 ---
