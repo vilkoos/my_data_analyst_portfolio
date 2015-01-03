@@ -12,8 +12,6 @@ Some examples of data wrangling exercises I did
 
 - Comparing the impact of weather events in the nineties and noughties, [Rpub](http://rpubs.com/vilkoos/52188)     
 Assignment 2 of the November 2014 Coursera course [Reproducible Research](https://www.coursera.org/course/repdata)   
-
-
 - Merging data on six Excel sheets into a .csv file and documenting the result in a code book.  
 See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)  
 
@@ -31,10 +29,9 @@ See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)
 	- [R code](./prg/a2_predict_by_tree.R) prediction by decision tree
 	- [R code](./prg/a3_predict_by_knn.R) prediction by k-nearest-neighbours   
 
------
-
  .
 
+-----
 ## Papers
 
 Here are some papers I wrote with [RUG Artificial Intelligence](http://www.rug.nl/masters/artificial-intelligence/) students in 2009 - 2010.
