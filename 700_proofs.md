@@ -24,6 +24,7 @@ See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)
 
 - Is there an association between internet use rate and life expectancy? [see tmblr](http://exexstats.tumblr.com/post/49267271093/final-project-passion-driven-statistics)   
 (a small paper I produced for [passion driven statistics](https://www.coursera.org/course/pdstatistics))
+- Lending club interest rates can be explained by a rigorous model [issue](http://issuu.com/vilkoos/docs/assignment1_data_analysis/0)
 
 -----
 
