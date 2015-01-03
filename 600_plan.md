@@ -1,4 +1,4 @@
-# Plan
+﻿# Plan
 
 To obtain my goal I plan to undertake three types of activities.
 
@@ -55,7 +55,7 @@ review of linear algebra
 **todo** . . review relevant materials of [UK Open university](http://www.amazon.co.uk/University-Mathematics-Second-Course-Introduction/dp/B005DL6E24)
 
 information theory  
-**totdo** . . the Coursera course [information theory](https://www.coursera.org/course/informationtheory)
+**todo** . . the Coursera course [information theory](https://www.coursera.org/course/informationtheory)
 
 ---
 
