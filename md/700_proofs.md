@@ -1,7 +1,7 @@
 
 ---
 ## Relevant on-line courses
-- finished MOOCs [list](./710_moocs.md)
+- [List](./710_moocs.md) of relevant finished MOOCs 
 
 ---
 ## Data wrangling

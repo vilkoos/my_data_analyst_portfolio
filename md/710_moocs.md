@@ -15,7 +15,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 ---
 ### Data science
 - [Computing for Data Analysis](https://www.coursera.org/course/compdata), 2012, Johns Hopkins, soa with distinction.
-- [Data Analysis](www.coursera.org/course/dataanalysis), 2013, Johns Hopkins, soa with distinction
+- [Data Analysis](https://www.coursera.org/course/dataanalysis), 2013, Johns Hopkins, soa with distinction
 - [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox), 2014, Johns Hopkins, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/dHjj74XxqxCJCHkR).
 - [R Programming](https://www.coursera.org/course/rprog) 2014, Johns Hopkins, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/ame2mGnzWFJMuwYu).
 - [Getting and Cleaning Data](https://www.coursera.org/course/getdata), 2014, Johns Hopkins, soa with distinction,[Verified Certificate](to come).
