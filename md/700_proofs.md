@@ -1,12 +1,12 @@
 
 ---
-## Relevant on-line courses
-- [List](./710_moocs.md) of relevant finished MOOCs 
+## Completed relevant on-line courses
+- The [list of relevant MOOCs](./710_moocs.md) I completed
 
 ---
 ## Data wrangling
 
-Some examples of data wrangling exercises I did
+Examples of data wrangling exercises:
 
 - Comparing the impact of weather events in the nineties and noughties, [Rpub](http://rpubs.com/vilkoos/52188)     
 Assignment 2 of the November 2014 Coursera course [Reproducible Research](https://www.coursera.org/course/repdata)   
@@ -17,6 +17,8 @@ See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)
 
 ---
 ## Statistical studies
+
+Examples of statistical studies:
 
 - Is there an association between internet use rate and life expectancy? [see tmblr](http://exexstats.tumblr.com/post/49267271093/final-project-passion-driven-statistics)   
 (a small paper I produced for [passion driven statistics](https://www.coursera.org/course/pdstatistics))
@@ -32,7 +34,7 @@ See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)
 -----
 ## Papers and reports
 
-Here are some papers I wrote with [RUG Artificial Intelligence](http://www.rug.nl/masters/artificial-intelligence/) students in 2009 - 2010.
+Papers written with [RUG Artificial Intelligence](http://www.rug.nl/masters/artificial-intelligence/) students in 2009 - 2010.
 
 - A Hand Contour Recognition, Comparison Of K - Nearest Neighbour Versus Feed - Forward Neural Net [issuu](http://issuu.com/vilkoos/docs/paper_rug_2009_handrecognition)
 - Sound recognition with CPSP Texture map counts based classification vs. regions based classification [issuu](http://issuu.com/vilkoos/docs/paper_rug_2010_sound_recognition)

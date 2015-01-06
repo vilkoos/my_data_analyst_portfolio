@@ -1,10 +1,10 @@
 my data analyst portfolio
 =========================
 
-This portfolio has two goals:
+This [portfolio](http://en.wikipedia.org/wiki/Electronic_portfolio#E-portfolios_in_Education) has two goals:
 
 1. to show my achievements as a data scientist
-2. to experiment with a portfolio (see note 1)
+2. to experiment with an development oriented e-portfolio (see note 1)
 
 ## contents
 
