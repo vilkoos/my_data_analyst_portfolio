@@ -8,37 +8,37 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 
 ---
 ### Statistics
-- [statistics one](https://www.coursera.org/course/stats1), 2012, Princeton on Coursera, completed, no soa (Princeton does not do soa's)
-- [Passion driven statistics](https://www.coursera.org/course/pdstatistics), 2013, Wesleyan on Coursera, soa 
-- [Data To Insight](https://www.futurelearn.com/courses/data-to-insight), 2014, University of Auckland On Futerlearn, completed, no soa (Futurelearn does not do free soa's)
+- 2012, [statistics one](https://www.coursera.org/course/stats1), Princeton on Coursera, completed, no soa (Princeton does not do soa's)
+- 2013, [Passion driven statistics](https://www.coursera.org/course/pdstatistics), Wesleyan on Coursera, soa 
+- 2014, [Data To Insight](https://www.futurelearn.com/courses/data-to-insight), University of Auckland On Futerlearn, completed, no soa (Futurelearn does not do free soa's)
 
 ---
 ### Data science
-- [Computing for Data Analysis](https://www.coursera.org/course/compdata), 2012, Johns Hopkins on Coursera, soa with distinction.
-- [Data Analysis](https://www.coursera.org/course/dataanalysis), 2013, Johns Hopkins on Coursera, soa with distinction
-- [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox), 2014, Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/dHjj74XxqxCJCHkR).
-- [R Programming](https://www.coursera.org/course/rprog) 2014, Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/ame2mGnzWFJMuwYu).
-- [Getting and Cleaning Data](https://www.coursera.org/course/getdata), 2014, Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/PNHBZXWSEP).
-- [Reproducible Research](https://www.coursera.org/course/repdata), 2014, Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/R2PK5GQ67M).
+- 2012, [Computing for Data Analysis](https://www.coursera.org/course/compdata), Johns Hopkins on Coursera, soa with distinction.
+- 2013, [Data Analysis](https://www.coursera.org/course/dataanalysis), Johns Hopkins on Coursera, soa with distinction
+- 2014, [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox), Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/dHjj74XxqxCJCHkR).
+- 2014, [R Programming](https://www.coursera.org/course/rprog) Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/ame2mGnzWFJMuwYu).
+- 2014, [Getting and Cleaning Data](https://www.coursera.org/course/getdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/PNHBZXWSEP).
+- 2014, [Reproducible Research](https://www.coursera.org/course/repdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/R2PK5GQ67M).
 
 ---
 ### Artificial intelligence/ text and data mining
 
-- [Machine Learning](https://www.coursera.org/course/ml), 2011, Stanford, completed, soa (see [issuu](http://issuu.com/vilkoos/docs/machine_learning_statement_of_accom) to view it)  
+- 2011, [Machine Learning](https://www.coursera.org/course/ml), Stanford, completed, soa (see [issuu](http://issuu.com/vilkoos/docs/machine_learning_statement_of_accom) to view it)  
   **Note** this was in October 2011, i.e. one of the three Stanford courses that triggerd the MOOC hype,
   I have included the link to the soa as a curiosity (only about 5000 people got it) 
-- [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), 2014, Lancaster University on Futurelearn, no soa  
+- 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn, no soa  
 
 ---
 ### Programming
 
-- [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython), 2012, Rice University on Coursera, soa with distinction.
+- 2012, [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython), Rice University on Coursera, soa with distinction.
 
 ---
 ### politics / history / policy
 
-- [Democratic Development](https://www.coursera.org/course/democraticdev), 2013, Stanford on Coursera, completed with soa. 
-- [A Brief History of Humankind](https://www.coursera.org/course/humankind), 2013, Hebrew University of Jerusalem on Coursera, completed with soa.
-- [The Modern World: Global History since 1760](https://www.coursera.org/course/modernworld), 2014, University of Virginia on Coursera, soa with distinction.
-- [The French Revolution](https://www.coursera.org/course/frenchrev), 2014, University of Melbourne on Coursera, soa with distinction.
-- [Configuring the World: A Critical Political Economy Approach](https://www.coursera.org/course/configuringworld), 2014, Leiden University on Coursera, soa with distinction.
+- 2013, [Democratic Development](https://www.coursera.org/course/democraticdev), Stanford on Coursera, completed with soa. 
+- 2013, [A Brief History of Humankind](https://www.coursera.org/course/humankind), Hebrew University of Jerusalem on Coursera, completed with soa.
+- 2014, [The Modern World: Global History since 1760](https://www.coursera.org/course/modernworld), University of Virginia on Coursera, soa with distinction.
+- 2014, [The French Revolution](https://www.coursera.org/course/frenchrev), University of Melbourne on Coursera, soa with distinction.
+- 2014, [Configuring the World: A Critical Political Economy Approach](https://www.coursera.org/course/configuringworld), Leiden University on Coursera, soa with distinction.
