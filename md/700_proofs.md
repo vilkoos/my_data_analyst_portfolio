@@ -21,7 +21,6 @@ See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)
 Examples of statistical studies:
 
 - Is there an association between internet use rate and life expectancy? [see tmblr](http://exexstats.tumblr.com/post/49267271093/final-project-passion-driven-statistics)   
-(a small paper I produced for [passion driven statistics](https://www.coursera.org/course/pdstatistics))
 - Lending club interest rates can be explained by a rigorous model [issue](http://issuu.com/vilkoos/docs/analysis1a)
 	- [R code](../prg/b1_lending_club_regression.R) lending club regression model 
 - Activity classification predictor cannot be generalized to individual subjects [issuu](http://issuu.com/vilkoos/docs/analysis2a)
