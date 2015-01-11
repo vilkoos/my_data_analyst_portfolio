@@ -2,7 +2,7 @@
 # Completed Open On-line Courses
 
 **Note** 
-Below "soa" means statement of accomplishment 
+Below "soa" means statement of accomplishment  
 A soa is a .pdf Coursera sends when a student -identified by login only- has fulfilled all requirements of a course.  
 A verified certificate is the same, but with identity checking by web-cam and typing pattern.
 
