@@ -10,7 +10,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 ### Statistics
 - 2012, [statistics one](https://www.coursera.org/course/stats1), Princeton on Coursera, completed, no soa (Princeton does not do soa's)
 - 2013, [Passion driven statistics](https://www.coursera.org/course/pdstatistics), Wesleyan on Coursera, soa 
-- 2014, [Data To Insight](https://www.futurelearn.com/courses/data-to-insight), University of Auckland On Futurelearn, completed, no soa (Futurelearn does not do free soa's)
+- 2014, [Data To Insight](https://www.futurelearn.com/courses/data-to-insight), University of Auckland On Futurelearn, completed, no soa (FL does not do soa's)
 
 ---
 ### Data science
