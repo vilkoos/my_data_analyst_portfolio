@@ -10,7 +10,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 ### Statistics
 - 2012, [statistics one](https://www.coursera.org/course/stats1), Princeton on Coursera, completed, no soa (Princeton does not do soa's)
 - 2013, [Passion driven statistics](https://www.coursera.org/course/pdstatistics), Wesleyan on Coursera, soa 
-- 2014, [Data To Insight](https://www.futurelearn.com/courses/data-to-insight), University of Auckland On Futerlearn, completed, no soa (Futurelearn does not do free soa's)
+- 2014, [Data To Insight](https://www.futurelearn.com/courses/data-to-insight), University of Auckland On Futurelearn, completed, no soa (Futurelearn does not do free soa's)
 
 ---
 ### Data science
@@ -24,9 +24,9 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 ---
 ### Artificial intelligence/ text and data mining
 
-- 2011, [Machine Learning](https://www.coursera.org/course/ml), Stanford, completed, soa (see [issuu](http://issuu.com/vilkoos/docs/machine_learning_statement_of_accom) to view it)  
-  **Note** this was in October 2011, i.e. one of the three Stanford courses that triggerd the MOOC hype,
-  I have included the link to the soa as a curiosity (only about 5000 people got it) 
+- 2011, [Machine Learning](https://www.coursera.org/course/ml), Stanford, completed, soa (see [issuu](http://issuu.com/vilkoos/docs/machine_learning_statement_of_accom) to view the soa)  
+  **Note** this was in October 2011, i.e. one of the three Stanford courses that triggerd the MOOC hype.  
+  I have included the link to the soa as a curiosity (only about 5000 people got one) 
 - 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn, no soa  
 
 ---
