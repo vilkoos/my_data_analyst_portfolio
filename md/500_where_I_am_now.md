@@ -45,7 +45,7 @@ Some competencies are already OK.
 - Mathematics, needed is linear algebra and calculus, I can do that (and much more, e.g. numerical methods).
 - Domain Expertise. In a sense there can be no such thing as enough domain expertise, but within the domain I plan to tackle - public policy - I'm pretty familiar.       
 
-According to this logic of O'Neil and Schutt I'm clearly on my way to being a data annalist. However there are some areas that still need work when we accept their definition of data science. 
+According to the logic of O'Neil and Schutt I'm clearly on my way to being a data annalist. However there are some areas that still need work when we accept their definition of data science. 
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
@@ -75,7 +75,7 @@ are true, but there is more to it than just that (although the second definition
 
 (3) strictly speaking I never got a masters. I got, what in Dutch is called, a doctoral degree (I'm not a MA or a Msc but a Drs. - actually a Drs.ing) NB, a doctoral degree is not a doctors degree; it translates as doctor-to-be, all I have to do is to write a dissertation and then I loose the 's' and be a Dr. In 1988 the EU switched to the Anglo Saxon bachelor/master system, the Dutch Drs. became defunct and was replaced by the masters title (and I could add; the length of the program I did was reduced by one year, so Drs = Msc + 1). Whatever you think about these innovations, one thing is sure. I can proudly claim to be a certified "old Dutch Master".  
 
-(4) Some might be unimpressed by the claim to be a social "scientist". Those who are not impressed probably associate social with: vague, political and partisan. The unimpressed are right in the sense that is indeed what many sociologist are. However, these critics in their conventional correctness - like lady Thatcher - tend to miss the crucial point: there is such a thing as society. So there can exist a science that studies it. To deny that is, scientifically speaking, as bas as to deny evolution or global warming. The unimpressed are also right in the sense that, to be scientifically sound, while doing sociology, is damn difficult.
+(4) Some might be unimpressed by the claim to be a social "scientist". Those who are not impressed probably associate social with: vague, political and partisan. The unimpressed are right in the sense that is indeed what many sociologist are. However, these critics in their conventional correctness - like lady Thatcher - tend to miss the crucial point: there is such a thing as society. So there can exist a science that studies it. To deny that is, scientifically speaking, as bad as to deny evolution or global warming. The unimpressed are also right in the sense that, to be scientifically sound, while doing sociology, is damn difficult.
 
 (5) I'm a well trained policy analyst, i.e. you can give me any set of policy relevant data and I can construct a scientific narrative that supports the policy that the officeholders in their infinite wisdom already had chosen. Conversely, you can give me any scientific report that the opposition would like to use. Using the same data it is almost always possible to reach different conclusions. The miraculous thing is that you can this without deceiving or cheating. The trick is to ask the data the "right" question and choose the "right" yardsticks to measure. 
 
