@@ -5,7 +5,7 @@ In the summer of 2016 I will retire as a lecturer.
 The plan is to fill retirement with daring and fun activities.
 
 ### ambition
-It is my ambition to become the worlds first **guerilla data annalist**.    
+It is my ambition to become the worlds first **guerilla data annalist** (1).    
 (i.e. use the tools of data science to surprise the powers that be.)
 
 What I mean by guerilla data analysis is:   
@@ -26,5 +26,7 @@ The only thing radical about this is that I intent to be uncompromisingly scient
 My identification with captain Wilard is not unbounded.  
 I do not plan to infiltrate behind enemy lines to strategically assassinate evil masterminds.  
 
+### Note
+(1) The term guerilla data analyst was inspired by [guerilla gardening](http://en.wikipedia.org/wiki/Guerrilla_gardening), not by guerilla warfare.
 
 
