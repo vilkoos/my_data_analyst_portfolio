@@ -63,6 +63,10 @@ According to the logic of O'Neil and Schutt I'm clearly on my way to being a dat
 
 Udacities findings agree well with those of O'Neil and Schutt. So, using Udacities curriculum as a reference, I again conclude that I'm well on my way to being a data annalist. However there are some areas that still need work. The detailed curriculum of Udacity specify the areas to work on. 
 
+Comparable information can be found elsewhere, e.g.:
+
+- dataCamp, [how to become a data scientist](http://i1.wp.com/blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)  
+
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
 
