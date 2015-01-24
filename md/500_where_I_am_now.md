@@ -47,6 +47,22 @@ Some competencies are already OK.
 
 According to the logic of O'Neil and Schutt I'm clearly on my way to being a data annalist. However there are some areas that still need work. 
 
+## Data science according to Udacity
+
+![fig3](http://i.imgur.com/I7dlLPD.jpg)
+
+[Udacity](https://www.udacity.com/course/nd002) has designed a data analyst nano degree. They did so in close consultation with the relevant industry (Google, AT&T etc.). This consultation resulted in a clear insight what a [data analysis curriculum](http://blog.udacity.com/2014/12/3-paths-first-data-analyst-job.html?utm_content=buffera1ee2&utm_medium=social&utm_source=twitter.com&utm_campaign=update) should contain. So, suppose you have a 18 year old fresh out of high school, which subjects and skills should you teach that youngster to make him or her a data analyst. According to Udacity that should be:
+
+- Programming (e.g. Python and R)
+- Statistics (descriptive and inferential)
+- Mathematics (i.e. linear algebra, functions and calculus)
+- Machine learning (supervised, unsupervised and reinforcement learning)
+- Data wrangling (e.g. SQL, non-sql, XML, regular expressions)
+- Data visualization 
+- Data intuition (a somewhat vague mix of subject matter expertise and project experience).  
+
+Udacities findings agree well with those of O'Neil and Schutt. So, using Udacities curriculum as a reference, I again conclude that I'm well on my way to being a data annalist. However there are some areas that still need work. The detailed curriculum of Udacity specifies the areas to work on. 
+
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
 
