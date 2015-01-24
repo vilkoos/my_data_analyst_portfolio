@@ -41,7 +41,7 @@ Some competencies need fine tuning
 - Programming. I have programmed in 20+ languages, but should have a very good second look at R, Python, non_SQL databases and XML.  
 
 Some competencies are already OK.
-- Databases, I experienced in SQL and database design.
+- Databases, I'm experienced in SQL and database design.
 - Mathematics, needed is linear algebra and calculus, I can do that (and much more, e.g. numerical methods).
 - Domain Expertise. In a sense there can be no such thing as enough domain expertise, but within the domain I plan to tackle - public policy - I'm pretty familiar.       
 
