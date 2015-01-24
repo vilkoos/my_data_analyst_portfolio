@@ -61,7 +61,7 @@ According to the logic of O'Neil and Schutt I'm clearly on my way to being a dat
 - Data visualization 
 - Data intuition (a somewhat vague mix of subject matter expertise and project experience).  
 
-Udacities findings agree well with those of O'Neil and Schutt. So, using Udacities curriculum as a reference, I again conclude that I'm well on my way to being a data annalist. However there are some areas that still need work. The detailed curriculum of Udacity specifies the areas to work on. 
+Udacities findings agree well with those of O'Neil and Schutt. So, using Udacities curriculum as a reference, I again conclude that I'm well on my way to being a data annalist. However there are some areas that still need work. The detailed curriculum of Udacity specify the areas to work on. 
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
