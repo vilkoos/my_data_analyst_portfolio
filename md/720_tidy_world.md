@@ -30,12 +30,13 @@ It would be great if we could collect and integrate data from all these differen
 ## project activities
 
 Activities needed to create the Tidy World database are:
-1. design the data-model for the relational database
-2. implement this model in SQLite (or something like it)
-3. find sources of relevant data on the internet
-4. for each source write scripts that grab the data from the internet an put these data into Tidy World.
-5. document the data structure, and data collections
-6. make a user interface to let users consult the data
+
+- design the data-model for the relational database
+- implement this model in SQLite (or something like it)
+- find sources of relevant data on the internet
+- for each source write scripts that grab the data from the internet an put these data into Tidy World.
+- document the data structure, and data collections
+- make a user interface to let users consult the data
 
 Using ad-hoc [SQL](http://en.wikipedia.org/wiki/SQL) queries we can extract any subsets of the data that we need.   
 
