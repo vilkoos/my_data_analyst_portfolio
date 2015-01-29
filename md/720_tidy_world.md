@@ -17,25 +17,27 @@ For over 30 years I'm worrying about questions like:
 - How does the performance on different dimensions correlate?
 - What is the "grand unifying theory of everything civil" that explains it all?  
 
-I'm not the only one that worries.  
-Many of my cherished fellows (EU, OECD, IMF, the World bank, the Economist, Gapminder, UN) collect and generously publish ample data. 
+To get answers on these questions we need data.
+
+The good news is that there is ample data available (I'm not the only one that worries).  
+Many cherished organizations (EU, OECD, IMF, the World bank, the Economist, Gapminder, UN) collect and generously publish relevant data on the internet. 
 
 However, this universal generosity creates a problem (5).  
 How do we integrate the data from these diverse sources?
 
-It would be great if we could collect and integrate data from all these different sources in one relational database. The database will be named: the Tidy World database. With standard SQL queries we could generate a wide variety of datasets from the Tidy World database.  
+It would be great if we could collect and integrate data from all these different sources in one [relational database](http://en.wikipedia.org/wiki/Relational_database). The database will be named: the Tidy World. With standard SQL queries we could generate a wide variety of datasets from the Tidy World database.  
 
 ## project activities
 
 Activities needed to create the Tidy World database are:
 1. design the data-model for the relational database
-2. implement this model in SQLite
+2. implement this model in SQLite (or something like it)
 3. find sources of relevant data on the internet
 4. for each source write scripts that grab the data from the internet an put these data into Tidy World.
 5. document the data structure, and data collections
 6. make a user interface to let users consult the data
 
-Using ad-hoc SQL queries we can extract subsets of the data that are useful for particular research.   
+Using ad-hoc [SQL](http://en.wikipedia.org/wiki/SQL) queries we can extract any subsets of the data that we need.   
 
 
 ## Notes
