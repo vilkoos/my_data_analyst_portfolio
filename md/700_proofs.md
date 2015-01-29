@@ -47,5 +47,11 @@ Papers written with [RUG Artificial Intelligence](http://www.rug.nl/masters/arti
 Here is a link to my statistics tmblr [explore and explain stats](http://exexstats.tumblr.com/)  
 
 ---
+## projects
 
+Examples of interesting projects are:
+
+- [Tidy World](./720_tidy_world.md) database 
+
+---
 more to come
