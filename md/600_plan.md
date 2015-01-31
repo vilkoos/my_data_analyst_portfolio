@@ -49,8 +49,10 @@ Master the set of command line tools for acquiring, cleaning, processing and pre
 ## 2 - deepen/refresh theory
 
 review of relevant theory: probability, basic distributions and Analysis of variance  
-**busy** . . work trough chapter 1..14 of: [An introduction to mathematical statistics](http://www.amazon.co.uk/Introduction-Mathematical-Statistics-Its-Applications/dp/0321766563/ref=sr_1_2?ie=UTF8&qid=1420129515&sr=8-2&keywords=an+introduction+to+mathematical+statistics+and+its+applications)  
-**busy** . . edX [course Probabilistic Systems Analysis and Applied Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
+- **busy** . . work trough chapter 1..14 of: [An introduction to mathematical statistics](http://www.amazon.co.uk/Introduction-Mathematical-Statistics-Its-Applications/dp/0321766563/ref=sr_1_2?ie=UTF8&qid=1420129515&sr=8-2&keywords=an+introduction+to+mathematical+statistics+and+its+applications)  
+- **busy** . . edX [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)
+- **todo** . . Coursera [Probability](https://www.coursera.org/course/probability)
+
 review of linear algebra  
 **todo** . . review relevant materials of [UK Open university](http://www.amazon.co.uk/University-Mathematics-Second-Course-Introduction/dp/B005DL6E24)
 
