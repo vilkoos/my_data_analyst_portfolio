@@ -18,8 +18,6 @@ What I mean by guerilla data analysis is:
 The only thing radical about this is that I intent to be uncompromisingly scientific and truthful.  
 (I can afford to be, I'm retired, so I'm beyond material gain or a craving for academic status.)  
 
-**Corollary**: Retirement is the new tenure.
-
 ![](http://i.imgur.com/Ikxwitb.jpg)
 
 **PS 1** 

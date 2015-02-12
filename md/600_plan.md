@@ -16,10 +16,10 @@ Time scale: the activities should be finished at the end of 2016.
 - **done**  . .The Data Scientist’s Toolbox 
 - **done** . . R Programming
 - **done** . . Getting and Cleaning Data
-- **busy** . . Exploratory Data Analysis
+- **done** . . Exploratory Data Analysis
 - **done** . . Reproducible Research
 - **todo** . . Statistical Inference
-- **todo** . . Regression Models
+- **busy** . . Regression Models
 - **todo** . . Practical Machine Learning
 - **todo** . . Developing Data Products
 - **todo** . . Data Science Capstone
