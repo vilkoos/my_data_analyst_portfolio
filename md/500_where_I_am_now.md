@@ -66,6 +66,7 @@ Udacities findings agree well with those of O'Neil and Schutt. So, using Udaciti
 Comparable information can be found elsewhere, e.g.:
 
 - dataCamp, [how to become a data scientist](http://i1.wp.com/blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)  
+- Becoming a Data Scientist – [Curriculum via Metromap](http://nirvacana.com/thoughts/becoming-a-data-scientist/)
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
