@@ -4,7 +4,7 @@
 Where am I now(1) on the path to being a data data scientist?  
 To answers that, we first must answer questions like:  
 
-- What is a data scientist? 
+- What is a data scientist?(7) 
 - Is there only one kind? 
 - If there are more, which kind I want to be?
 
@@ -67,6 +67,7 @@ Comparable information can be found elsewhere, e.g.:
 
 - dataCamp, [how to become a data scientist](http://i1.wp.com/blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)  
 - Becoming a Data Scientist – [Curriculum via Metromap](http://nirvacana.com/thoughts/becoming-a-data-scientist/)
+- Gill Press, [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
@@ -98,6 +99,8 @@ are true, but there is more to it than just that (although the second definition
 
 (4) Some might be unimpressed by the claim to be a social "scientist". Those who are not impressed probably associate social with: vague, political and partisan. The unimpressed are right in the sense that is indeed what many sociologist are. However, these critics in their conventional correctness - like lady Thatcher - tend to miss the crucial point: there is such a thing as society. So there can exist a science that studies it. To deny that is, scientifically speaking, as bad as to deny evolution or global warming. The unimpressed are also right in the sense that, to be scientifically sound, while doing sociology, is damn difficult.
 
-(5) I'm a well trained policy analyst, i.e. you can give me any set of policy relevant data and I can construct a scientific narrative that supports the policy that the officeholders in their infinite wisdom already had chosen. Conversely, you can give me any scientific report that the opposition would like to use. Using the same data it is almost always possible to reach different conclusions. The miraculous thing is that you can do this without deceiving or cheating. The trick is to ask the data the "right" question and choose the "right" yardsticks to measure. 
+(5) I'm a well trained policy analyst, i.e. you can give me any set of policy relevant data and I can construct a scientific narrative that supports the policy that the officeholders in their infinite wisdom already had chosen. Conversely, you can give me any scientific report that the opposition would like to use. Using the same data it is almost always possible to reach different conclusions. The miraculous thing is that you can do this without deceiving or cheating. The trick is to ask the data the "right" question and to choose the "right" yardsticks to measure. 
 
 (6) Some people do not belief that there is such a thing as a master of all these three trades. The set of people that are AND statisticians AND can program AND are subject matter experts is empty, no such people exist, only [unicorns live at that intersection](http://robjhyndman.com/hyndsight/am-i-a-data-scientist/).    
+
+(7) Gill Press has written an informative article about the academic origins of the term data science: [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)

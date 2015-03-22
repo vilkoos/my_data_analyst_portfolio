@@ -19,7 +19,8 @@ This [portfolio](http://en.wikipedia.org/wiki/Electronic_portfolio#E-portfolios_
 **NOTE**
 
 (1) As a lecturer I can't help but wonder.  
-Are portfolios the next big thing in education?   
+Are portfolios the next big thing in education?(2)   
 If so, what is a a good portfolio, how do you do it?  
 My way of answering these questions: try, fail, next time fail better.
 
+(2) Here is a [second example of a portfolio](https://github.com/JorisSchut/MOOC-portfolio) on github.
