@@ -18,9 +18,9 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2013, [Data Analysis](https://www.coursera.org/course/dataanalysis), Johns Hopkins on Coursera, soa with distinction
 - 2014, [The Data Scientist’s Toolbox](https://www.coursera.org/course/datascitoolbox), Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/dHjj74XxqxCJCHkR).
 - 2014, [R Programming](https://www.coursera.org/course/rprog) Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/ame2mGnzWFJMuwYu).
-- 2014, [Getting and Cleaning Data](https://www.coursera.org/course/getdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/PNHBZXWSEP).
-- 2014, [Reproducible Research](https://www.coursera.org/course/repdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/R2PK5GQ67M).
-- 2015, [Exploratory Data Analysis](https://www.coursera.org/course/exdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/MVV66LMHPZ).
+- 2014, [Getting and Cleaning Data](https://www.coursera.org/course/getdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/verify/PNHBZXWSEP).
+- 2014, [Reproducible Research](https://www.coursera.org/course/repdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/8958NxMBdfK9ujcQ).
+- 2015, [Exploratory Data Analysis](https://www.coursera.org/course/exdata), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/CvcwBEyqBfbFjvfv).
 - 2015, [Regression Models](https://www.coursera.org/course/regmods), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/K3E9JYF3hDAP7HYE).
 - 2015, [Statistical Inference](https://www.coursera.org/course/statinference), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/Kt8hQGaTjcawDK4w).
 
