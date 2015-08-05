@@ -24,5 +24,3 @@ If so, what is a a good portfolio, how do you do it?
 My way of answering these questions: try, fail, next time fail better.
 
 (2) Here is a [second example of a portfolio](https://github.com/JorisSchut/MOOC-portfolio) on github.
-
-(3) try
