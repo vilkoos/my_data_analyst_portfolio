@@ -27,7 +27,9 @@ Examples of statistical studies:
 .
 
 ---
-## machine learning examples
+## Machine Learning studies
+
+Examples of machine learning studies:
 
 - Activity classification predictor cannot be generalized to individual subjects [issuu](http://issuu.com/vilkoos/docs/analysis2a)
 	- [R code](../prg/a1_explore_data.R) exploratory analysis
