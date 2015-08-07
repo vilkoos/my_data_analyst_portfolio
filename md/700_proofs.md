@@ -23,10 +23,21 @@ Examples of statistical studies:
 - Is there an association between internet use rate and life expectancy? [see tmblr](http://exexstats.tumblr.com/post/49267271093/final-project-passion-driven-statistics)   
 - Lending club interest rates can be explained by a rigorous model [issue](http://issuu.com/vilkoos/docs/analysis1a)
 	- [R code](../prg/b1_lending_club_regression.R) lending club regression model 
+
+.
+
+---
+## machine learning examples
+
 - Activity classification predictor cannot be generalized to individual subjects [issuu](http://issuu.com/vilkoos/docs/analysis2a)
 	- [R code](../prg/a1_explore_data.R) exploratory analysis
 	- [R code](../prg/a2_predict_by_tree.R) prediction by decision tree
 	- [R code](../prg/a3_predict_by_knn.R) prediction by k-nearest-neighbours   
+- Machine learning with random forests [see github](https://github.com/vilkoos/practical_machine_learning/blob/master/ML_with_rf.md)   
+Assignment of the July 2015 Coursera Course [Practical Machine Learning ](https://www.coursera.org/course/predmachlearn)
+- Experiments with Echo state Neural Networks (in Dutch, large matlab script) My Economic Echo's [issuu](http://issuu.com/vilkoos/docs/opdracht_neurale_netwerken__echo_st)
+
+
 
  .
 
