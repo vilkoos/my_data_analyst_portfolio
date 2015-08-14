@@ -25,10 +25,10 @@ By then, I also had found my passions: "torturing the data until they confess" a
 There is a second reason I like Conways definition. if I understand him correctly, I'm a data scientist since 1986.
 
 ## Data science according to O'Neil and Schutt
-Cathy O'Neil and Rachel Schutt wrote a book: [Doing data science](http://www.amazon.com/Doing-Data-Science-Cathy-ONeil/dp/1449358659). In chapter 1, what is data science, they visualize the relevant competencies in a figure like this one.
+Cathy O'Neil and Rachel Schutt wrote a book: [Doing data science](http://www.amazon.com/Doing-Data-Science-Cathy-ONeil/dp/1449358659). In chapter 1, what is data science, they visualize the relevant competencies in a figure like this.
 ![my competencies](http://i.imgur.com/QmS4MPY.jpg)
 
-On the horizontal axis we see the competencies a data scientist must have. On the vertical axis my estimated competency score is displayed (where 100 = 100% of what is needed). The dark blue areas display competencies about which I'm pretty sure. The light blue areas display competencies that I have, but might be not that relevant for doing data science.
+On the horizontal axis we see the competencies a data scientist should have. On the vertical axis my estimated competency score is displayed (where 100 = 100% of what is needed). The dark blue areas display competencies about which I'm pretty sure. The light blue areas display competencies that I have, but might be not relevant.
 
 Some competencies clearly need work
 - Data visualization. I know the basics, but I also know that there are many tools that I do not have mastered ( e.g. [data visualization](http://www.amazon.co.uk/Data-Visualization-Dummies-Mico-Yuk/dp/1118502892/ref=sr_1_3?s=books&ie=UTF8&qid=1419412617&sr=1-3&keywords=data+visualization)).
