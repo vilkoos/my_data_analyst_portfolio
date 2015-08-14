@@ -26,6 +26,7 @@ There is a second reason I like Conways definition. if I understand him correctl
 
 ## Data science according to O'Neil and Schutt
 Cathy O'Neil and Rachel Schutt wrote a book: [Doing data science](http://www.amazon.com/Doing-Data-Science-Cathy-ONeil/dp/1449358659). In chapter 1, what is data science, they visualize the relevant competencies in a figure like this.
+
 ![my competencies](http://i.imgur.com/QmS4MPY.jpg)
 
 On the horizontal axis we see the competencies a data scientist should have. On the vertical axis my estimated competency score is displayed (where 100 = 100% of what is needed). The dark blue areas display competencies about which I'm pretty sure. The light blue areas display competencies that I have, but might be not relevant.
