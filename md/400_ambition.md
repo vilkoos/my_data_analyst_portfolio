@@ -1,7 +1,7 @@
 
 ![](http://i.imgur.com/EUqpWPt.jpg)
 
-In the summer of 2016 I will retire as a lecturer.  
+In the spring of 2016 I will retire as a lecturer.  
 The plan is to fill retirement with daring and fun activities.
 
 ### ambition
