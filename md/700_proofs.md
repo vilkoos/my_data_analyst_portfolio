@@ -39,7 +39,12 @@ Examples of machine learning studies:
 Assignment of the July 2015 Coursera Course [Practical Machine Learning ](https://www.coursera.org/course/predmachlearn)
 - Experiments with Echo state Neural Networks (in Dutch, large matlab script) My Economic Echo's [issuu](http://issuu.com/vilkoos/docs/opdracht_neurale_netwerken__echo_st)
 
+---
+## data products
 
+Examples of data products:
+
+- Work for the Coursera course [developing data products](https://www.coursera.org/course/devdataprod) see [github](https://github.com/vilkoos/data_product_example)
 
  .
 
