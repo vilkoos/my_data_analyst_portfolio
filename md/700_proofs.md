@@ -40,7 +40,7 @@ Assignment of the July 2015 Coursera Course [Practical Machine Learning ](https:
 - Experiments with Echo state Neural Networks (in Dutch, large matlab script) My Economic Echo's [issuu](http://issuu.com/vilkoos/docs/opdracht_neurale_netwerken__echo_st)
 
 ---
-## data products
+## Data products
 
 Examples of data products:
 
