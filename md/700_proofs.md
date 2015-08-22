@@ -45,6 +45,8 @@ Assignment of the July 2015 Coursera Course [Practical Machine Learning ](https:
 Examples of data products:
 
 - Work for the Coursera course [developing data products](https://www.coursera.org/course/devdataprod) see [github](https://github.com/vilkoos/data_product_example)
+	- a [shiny app](https://vilkoos.shinyapps.io/predict_lc_interest) to calculate your lending club interest rate
+	- a Rstudio generated HTML5 [presentation](http://rpubs.com/vilkoos/dataprod)  
 
  .
 
