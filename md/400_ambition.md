@@ -5,7 +5,7 @@ In the spring of 2016 I will retire as a lecturer.
 The plan is to fill retirement with daring and fun activities.
 
 ### ambition
-Inspired by [guerilla gardeners](http://en.wikipedia.org/wiki/Guerrilla_gardening), it is my ambition to become the worlds first **guerilla data annalist** (1).    
+Inspired by [guerilla gardeners](http://en.wikipedia.org/wiki/Guerrilla_gardening), it is my ambition to become the worlds first **guerilla data annalist**.    
 (i.e. use the tools of data science to surprise the powers that be.)
 
 What I mean by guerilla data analysis is:   
