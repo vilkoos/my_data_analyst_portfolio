@@ -21,7 +21,7 @@ Time scale: the activities should be finished at the end of 2016.
 - **done** . . Statistical Inference
 - **done** . . Regression Models
 - **done** . . Practical Machine Learning
-- **busy** . . Developing Data Products
+- **done** . . Developing Data Products
 - **todo** . . Data Science Capstone
 
 ### Exploratory data analysis with inzight
