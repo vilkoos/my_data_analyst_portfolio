@@ -20,6 +20,7 @@
 
 ##Favourites  
 (movie) [Apocalypse now](https://www.facebook.com/ApocalypseNowMovie?fb_action_ids=1392445307677777&fb_action_types=video.watches&fb_source=other_multiline&action_object_map=%5B132187376810512%5D&action_type_map=%5B%22video.watches%22%5D&action_ref_map=%5B%5D&fb_collection_id=46&ref=profile)  
+(movie) [Playtime](https://en.wikipedia.org/wiki/Playtime)  
 (book-) Simon, Herbert.A., [Administrative Behaviour](http://www.goodreads.com/book/show/155253.Administrative_Behavior?action_object_map=%5B404550862944594%5D&action_ref_map=%5B%5D&action_type_map=%5B%22books.reads%22%5D&fb_action_ids=1414322568823384&fb_action_types=books.reads&fb_collection_id=14&fb_source=other_multiline&ref=profile)  
 (book-) Simon, Herbert.A., [The sciences of the artificial](http://www.amazon.co.uk/Sciences-Artificial-Herbert-Simon/dp/0262691914/ref=sr_1_1?ie=UTF8&qid=1416680947&sr=8-1&keywords=Sciences+of+the+Artificial)   
 (book-) McCorduck, Pamela, [Machines Who Think](http://www.goodreads.com/book/show/1170362.Machines_Who_Think?fb_action_ids=1392457471009894&fb_action_types=books.reads&fb_source=other_multiline&action_object_map=%5B10150392473343219%5D&action_type_map=%5B%22books.reads%22%5D&action_ref_map=%5B%5D&fb_collection_id=14&ref=profile)  
