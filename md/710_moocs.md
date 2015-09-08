@@ -38,6 +38,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 ### Programming
 
 - 2012, [An Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython), Rice University on Coursera, soa with distinction.
+- 2015, [DAT204x Introduction to R programming](https://www.edx.org/course/introduction-r-programming-microsoft-dat204x-0), Microsoft on edX. 
 
 ---
 ### politics / history / policy
