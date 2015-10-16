@@ -48,3 +48,4 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2014, [The Modern World: Global History since 1760](https://www.coursera.org/course/modernworld), University of Virginia on Coursera, soa with distinction.
 - 2014, [The French Revolution](https://www.coursera.org/course/frenchrev), University of Melbourne on Coursera, soa with distinction.
 - 2014, [Configuring the World: A Critical Political Economy Approach](https://www.coursera.org/course/configuringworld), Leiden University on Coursera, soa with distinction.
+- 2015, [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics), Yale University on Coursera, no soa (but Final Grade: 92.10000000000001% according to the Coursera computer)
