@@ -30,7 +30,10 @@ Futurelearn has a statistics course centred around a very nice data exploration 
 
 ### Python for data analysis
 Learn to work with Python, pandas, scipy and iPython by,  
-**todo** . . work through: [Python for data analysis](http://www.amazon.co.uk/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=sr_1_1?s=books&ie=UTF8&qid=1420115197&sr=1-1&keywords=python+for+data+analysis)
+
+- **busy** . . work through: [Python for data analysis](http://www.amazon.co.uk/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=sr_1_1?s=books&ie=UTF8&qid=1420115197&sr=1-1&keywords=python+for+data+analysis)
+- **busy** . . complete [Learn to Code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) from the OU on FutureLearn
+- **busy** . . complete [Learning Python for Data Analysis and Visualization](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/#/) on Udemy.
 
 ### Data Science at the command line
 Master the set of command line tools for acquiring, cleaning, processing and presenting data by,  
