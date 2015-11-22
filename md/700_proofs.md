@@ -12,7 +12,8 @@ Examples of data wrangling exercises:
 Assignment 2 of the November 2014 Coursera course [Reproducible Research](https://www.coursera.org/course/repdata)   
 - Merging data on six Excel sheets into a .csv file and documenting the result in a code book.  
 See the github repository [CTWdata](https://github.com/vilkoos/CTWdata)  
-
+- Data wrangling using Pandas [example 1](https://github.com/vilkoos/life_expectancy/blob/master/my_week3_data.ipynb) and [example 2](https://github.com/vilkoos/CTWdata/blob/master/ctw_example_using_Python.ipynb)
+  
  .
 
 ---
