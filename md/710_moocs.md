@@ -25,6 +25,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2015, [Statistical Inference](https://www.coursera.org/course/statinference), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/Kt8hQGaTjcawDK4w).
 - 2015, [Practical Machine Learning](https://www.coursera.org/course/predmachlearn), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/LjtD7VzLmqhT6dht)
 - 2015, [Developing Data Products](https://www.coursera.org/course/devdataprod), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/VJWLvEKfjy6j8Yqf)
+- 2015, [Learn to code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) The Open University on FutureLearn, completed, good score but no soa.
 
 ---
 ### Artificial intelligence/ text and data mining

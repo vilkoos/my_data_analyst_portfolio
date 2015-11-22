@@ -32,7 +32,7 @@ Futurelearn has a statistics course centred around a very nice data exploration 
 Learn to work with Python, pandas, scipy and iPython by,  
 
 - **busy** . . work through: [Python for data analysis](http://www.amazon.co.uk/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=sr_1_1?s=books&ie=UTF8&qid=1420115197&sr=1-1&keywords=python+for+data+analysis)
-- **busy** . . complete [Learn to Code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) from the OU on FutureLearn
+- **done** . . complete [Learn to Code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) from the OU on FutureLearn
 - **busy** . . complete [Learning Python for Data Analysis and Visualization](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/#/) on Udemy.
 
 ### Data Science at the command line
