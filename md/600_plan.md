@@ -22,7 +22,7 @@ Time scale: the activities should be finished at the end of 2016.
 - **done** . . Regression Models
 - **done** . . Practical Machine Learning
 - **done** . . Developing Data Products
-- **todo** . . Data Science Capstone
+- **done** . . Data Science Capstone
 
 ### Exploratory data analysis with inzight
 Futurelearn has a statistics course centred around a very nice data exploration tool: inzight  

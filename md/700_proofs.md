@@ -48,7 +48,11 @@ Examples of data products:
 - Work for the Coursera course [developing data products](https://www.coursera.org/course/devdataprod) see [github](https://github.com/vilkoos/data_product_example)
 	- a [shiny app](https://vilkoos.shinyapps.io/predict_lc_interest) to calculate your lending club interest rate
 	- a Rstudio generated HTML5 [presentation](http://rpubs.com/vilkoos/dataprod)  
+	
 
+- Work for the [data science capstone](https://www.coursera.org/learn/data-science-project) project
+ 	- a [shiny app](https://vilkoos.shinyapps.io/data_science_capstone_app/) to predict the next word in a sentence.
+ 	- a Rstudio generated HTML5 [presentation](http://rpubs.com/vilkoos/145200)
  .
 
 -----
@@ -59,7 +63,6 @@ Papers written with [RUG Artificial Intelligence](http://www.rug.nl/masters/arti
 - A Hand Contour Recognition, Comparison Of K - Nearest Neighbour Versus Feed - Forward Neural Net [issuu](http://issuu.com/vilkoos/docs/paper_rug_2009_handrecognition)
 - Sound recognition with CPSP Texture map counts based classification vs. regions based classification [issuu](http://issuu.com/vilkoos/docs/paper_rug_2010_sound_recognition)
 - Human Benchmarking for Automated Sound Recognition, Human performance on machine learning tasks [issuu](http://issuu.com/vilkoos/docs/paper_rug_2009_perception_experimen)
-
  .
 
 ---
@@ -73,6 +76,7 @@ Here is a link to my statistics tmblr [explore and explain stats](http://exexsta
 Examples of interesting projects are:
 
 - [Tidy World](./720_tidy_world.md) database 
+- The [data science capstone](https://www.coursera.org/learn/data-science-project) project
 
 ---
 more to come
