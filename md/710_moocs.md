@@ -26,7 +26,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2015, [Practical Machine Learning](https://www.coursera.org/course/predmachlearn), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/LjtD7VzLmqhT6dht)
 - 2015, [Developing Data Products](https://www.coursera.org/course/devdataprod), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/VJWLvEKfjy6j8Yqf)
 - 2015, [Learn to code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) The Open University on FutureLearn, completed.
-- 2016, [Data science capstone project](https://www.coursera.org/learn/data-science-project/) Johns Hopkins on Coursera, Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/aZecNF2HAfVwpeSu)
+- 2016, [Data science capstone project](https://www.coursera.org/learn/data-science-project/) Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/aZecNF2HAfVwpeSu)
 
 ---
 ### Artificial intelligence/ text and data mining
