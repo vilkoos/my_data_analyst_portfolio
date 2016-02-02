@@ -25,8 +25,8 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2015, [Statistical Inference](https://www.coursera.org/course/statinference), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/Kt8hQGaTjcawDK4w).
 - 2015, [Practical Machine Learning](https://www.coursera.org/course/predmachlearn), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/LjtD7VzLmqhT6dht)
 - 2015, [Developing Data Products](https://www.coursera.org/course/devdataprod), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/VJWLvEKfjy6j8Yqf)
-- 2015, [Learn to code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) The Open University on FutureLearn, completed, good score but no soa.
-- 2016, [Data science capstone project](https://www.coursera.org/learn/data-science-project/) Johns Hopkins on Coursera, etc
+- 2015, [Learn to code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) The Open University on FutureLearn, completed.
+- 2016, [Data science capstone project](https://www.coursera.org/learn/data-science-project/) Johns Hopkins on Coursera, Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/aZecNF2HAfVwpeSu)
 
 ---
 ### Artificial intelligence/ text and data mining
@@ -34,7 +34,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2011, [Machine Learning](https://www.coursera.org/course/ml), Stanford, completed, soa (see [issuu](http://issuu.com/vilkoos/docs/machine_learning_statement_of_accom) to view the soa)  
   **Note** this was in October 2011, i.e. one of the three Stanford courses that triggerd the MOOC hype.  
   I have included the link to the soa as a curiosity (only about 5000 people got one) 
-- 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn, no soa  
+- 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn.  
 
 ---
 ### Programming
@@ -50,5 +50,5 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2014, [The Modern World: Global History since 1760](https://www.coursera.org/course/modernworld), University of Virginia on Coursera, soa with distinction.
 - 2014, [The French Revolution](https://www.coursera.org/course/frenchrev), University of Melbourne on Coursera, soa with distinction.
 - 2014, [Configuring the World: A Critical Political Economy Approach](https://www.coursera.org/course/configuringworld), Leiden University on Coursera, soa with distinction.
-- 2015, [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics), Yale University on Coursera, no soa (but Final Grade: 92.10000000000001% according to the Coursera computer)
-- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera, no soa (good final grade 98)
+- 2015, [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics), Yale University on Coursera (final grade: 92.10000000000001% according to the Coursera computer)
+- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera.
