@@ -69,6 +69,7 @@ Comparable information can be found elsewhere, e.g.:
 - dataCamp, [how to become a data scientist](http://i1.wp.com/blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)  
 - Becoming a Data Scientist – [Curriculum via Metromap](http://nirvacana.com/thoughts/becoming-a-data-scientist/)
 - Gill Press, [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
+- Analytics Vidhya [The Ultimate Plan to Become a Data Scientist in 2016](http://www.analyticsvidhya.com/blog/2016/01/ultimate-plan-data-scientist-2016/) (also have a look at the [resources](http://www.analyticsvidhya.com/ultimate-plan-data-scientist-2016/) page)
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
