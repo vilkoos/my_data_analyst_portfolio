@@ -43,6 +43,14 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2015, [DAT204x Introduction to R programming](https://www.edx.org/course/introduction-r-programming-microsoft-dat204x-0), Microsoft on edX. 
 
 ---
+### HTML, CSS, JS
+- 2016, [Introduction to HTML5](https://www.coursera.org/learn/html), University of Michigan on Coursera (did not buy the soa).
+- 2016, [Introduction to CSS3](https://www.coursera.org/learn/introcss), University of Michigan on Coursera (did not buy the soa).
+- 2016, [Interactivity with JavaScript](https://www.coursera.org/learn/javascript), University of Michigan on Coursera (did not buy the soa).
+- 2016, [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign), University of Michigan on Coursera (did not buy the soa).
+- 2016, [HTML5 Introduction](https://www.edx.org/course/html5-introduction-w3cx-html5-0x), w3c on edX (did not buy the soa).
+
+---
 ### politics / history / policy
 
 - 2013, [Democratic Development](https://www.coursera.org/course/democraticdev), Stanford on Coursera, completed with soa. 
@@ -51,4 +59,5 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2014, [The French Revolution](https://www.coursera.org/course/frenchrev), University of Melbourne on Coursera, soa with distinction.
 - 2014, [Configuring the World: A Critical Political Economy Approach](https://www.coursera.org/course/configuringworld), Leiden University on Coursera, soa with distinction.
 - 2015, [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics), Yale University on Coursera (final grade: 92.10000000000001% according to the Coursera computer)
-- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera.
+- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera (did not buy soa).
+- 2016, [Towards Brexit? The UK's EU Referendum](https://www.futurelearn.com/courses/eu-referendum), University of Edinburgh on FutureLearn (did not buy soa).
