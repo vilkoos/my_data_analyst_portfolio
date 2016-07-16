@@ -59,5 +59,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2014, [The French Revolution](https://www.coursera.org/course/frenchrev), University of Melbourne on Coursera, soa with distinction.
 - 2014, [Configuring the World: A Critical Political Economy Approach](https://www.coursera.org/course/configuringworld), Leiden University on Coursera, soa with distinction.
 - 2015, [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics), Yale University on Coursera (final grade: 92.10000000000001% according to the Coursera computer)
-- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera (did not buy soa).
-- 2016, [Towards Brexit? The UK's EU Referendum](https://www.futurelearn.com/courses/eu-referendum), University of Edinburgh on FutureLearn (did not buy soa).
+- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera (did not buy the soa).
+- 2016, [Towards Brexit? The UK's EU Referendum](https://www.futurelearn.com/courses/eu-referendum), University of Edinburgh on FutureLearn (did not buy the soa).
+- 2016, [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory), University of Amsterdam on Coursera (did not buy the soa)
+- 2016, [Constitutional Struggles in the Muslim World](https://www.coursera.org/learn/muslim-world), University of Copenhagen on Coursera (did not buy the soa).
