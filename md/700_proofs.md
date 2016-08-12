@@ -39,7 +39,7 @@ Examples of machine learning studies:
 - Machine learning with random forests [see github](https://github.com/vilkoos/practical_machine_learning/blob/master/ML_with_rf.md)   
 Assignment of the July 2015 Coursera Course [Practical Machine Learning ](https://www.coursera.org/course/predmachlearn)
 - Experiments with Echo state Neural Networks (in Dutch, large matlab script) My Economic Echo's [issuu](http://issuu.com/vilkoos/docs/opdracht_neurale_netwerken__echo_st)
-- Mining event-logs to discover process models i.e: [process discovery and conformance checking with ProMLite](https://github.com/vilkoos/process_mining) 
+- Mining event-logs to discover process models i.e: [process discovery and conformance checking with ProMLite](https://github.com/vilkoos/process_mining/blob/master/process_analysis.md) 
 
 ---
 ## Data products
