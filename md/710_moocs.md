@@ -3,8 +3,10 @@
 
 **Note** 
 Below "soa" means statement of accomplishment  
-A soa is a .pdf Coursera sends when a student -identified by login only- has fulfilled all requirements of a course.  
+A soa is a .pdf Coursera sends when a student -identified by login only- has fulfilled all course requirements.  
 A verified certificate is the same, but with identity checking by web-cam and typing pattern.
+**PS1:** FutureLearn and edX also have soa's but they are called certificates.
+**PS2:** As of 2016, Coursera no longer hands out free soa's, neither do FL and edX.    
 
 ---
 ### Statistics
@@ -27,6 +29,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2015, [Developing Data Products](https://www.coursera.org/course/devdataprod), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/VJWLvEKfjy6j8Yqf)
 - 2015, [Learn to code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) The Open University on FutureLearn, completed.
 - 2016, [Data science capstone project](https://www.coursera.org/learn/data-science-project/) Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/aZecNF2HAfVwpeSu)
+- 2016, [Big Data Analytics](https://www.futurelearn.com/programs/big-data-analytics?utm_source=FL_DB&utm_medium=crm&utm_campaign=01_08_2016_FL_newsletter&utm_content=text), Queensland University of Technology on FutureLearn (did the four mini-courses, did not buy a soa) 
 
 ---
 ### Artificial intelligence/ text and data mining
@@ -35,6 +38,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
   **Note** this was in October 2011, i.e. one of the three Stanford courses that triggerd the MOOC hype.  
   I have included the link to the soa as a curiosity (only about 5000 people got one) 
 - 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn.  
+- 2016, [Introduction to Process Mining with ProM](https://www.futurelearn.com/courses/process-mining), Technical Universty Eindhoven on FutureLearn (did not buy the soa). 
 
 ---
 ### Programming
