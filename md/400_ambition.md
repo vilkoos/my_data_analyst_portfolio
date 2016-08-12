@@ -21,7 +21,8 @@ The only thing radical about this is that I intent to be uncompromisingly scient
 ![](http://i.imgur.com/Ikxwitb.jpg)
 
 **PS** 
-My identification with captain Wilard is not unbounded.  
-I do not plan to infiltrate behind enemy lines to strategically assassinate evil masterminds.  
+My identification with [captain Wilard](https://en.wikipedia.org/wiki/Apocalypse_Now) is not unbounded.  
+
+
 
 
