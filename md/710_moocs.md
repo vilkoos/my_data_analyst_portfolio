@@ -4,9 +4,9 @@
 **Note** 
 Below "soa" means statement of accomplishment  
 A soa is a .pdf Coursera sends when a student -identified by login only- has fulfilled all course requirements.  
-A verified certificate is the same, but with identity checking by web-cam and typing pattern.
-**PS1:** FutureLearn and edX also have soa's but they are called certificates.
-**PS2:** As of 2016, Coursera no longer hands out free soa's, neither do FL and edX.    
+A verified certificate is the same, but with identity checking by web-cam and typing pattern.  
+**PS1:** FutureLearn and edX also have soa's but they are called certificates.  
+**PS2:** As of 2016, Coursera no longer hands out free soa's, neither do FL and edX.      
 
 ---
 ### Statistics
