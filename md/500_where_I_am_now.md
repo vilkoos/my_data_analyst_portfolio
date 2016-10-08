@@ -4,7 +4,7 @@
 Where am I now(1) on the path to being a data data scientist?  
 To answers that, we first must answer questions like:  
 
-- What is a data scientist?(7)(8) 
+- What is a data scientist?(7)(8)(9) 
 - Is there only one kind? 
 - If there are more, which kind I want to be?
 
@@ -108,7 +108,9 @@ For others Conway is too permissive, perfect data scientist also should have goo
 
 (7) Gill Press has written an informative article about the academic origins of the term data science: [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 
-(8) Lee Baker has written a [blog](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A439088) that all aspiring data-scientists should read. On the first sight he just discusses the question if statistics is obsolete because we have data-science now. He says wise things about the value of statistics (statistics is about quantifying [uncertainty](https://en.wikipedia.org/wiki/Uncertainty)). . . . But he becomes really valuable when he proceeds with a "definition" of what data-science does: 
+(8) An other inspiring scholarly attempt to define data science and its future: [David Donoho, 50 years of Data Science](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
+
+(9) Lee Baker has written a [blog](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A439088) that all aspiring data-scientists should read. On the first sight he just discusses the question if statistics is obsolete because we have data-science now. He says wise things about the value of statistics (statistics is about quantifying [uncertainty](https://en.wikipedia.org/wiki/Uncertainty)). . . . But he becomes really valuable when he proceeds with a "definition" of what data-science does: 
 
 > Data Science is all about extracting knowledge from data 
 
