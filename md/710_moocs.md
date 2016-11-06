@@ -39,6 +39,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
   I have included the link to the soa as a curiosity (only about 5000 people got one) 
 - 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn.  
 - 2016, [Introduction to Process Mining with ProM](https://www.futurelearn.com/courses/process-mining), Technical Universty Eindhoven on FutureLearn (did not buy the soa). 
+- 2016, [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations), University of Washington on Coursera, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/N6CW3JGP76LE)
 
 ---
 ### Programming
