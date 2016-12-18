@@ -32,7 +32,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2016, [Big Data Analytics](https://www.futurelearn.com/programs/big-data-analytics?utm_source=FL_DB&utm_medium=crm&utm_campaign=01_08_2016_FL_newsletter&utm_content=text), Queensland University of Technology on FutureLearn (did the four mini-courses, did not buy a soa) 
 
 ---
-### Artificial intelligence/ text and data mining
+### Machine Learning/ text and data mining
 
 - 2011, [Machine Learning](https://www.coursera.org/course/ml), Stanford, completed, soa (see [issuu](http://issuu.com/vilkoos/docs/machine_learning_statement_of_accom) to view the soa)  
   **Note** this was in October 2011, i.e. one of the three Stanford courses that triggerd the MOOC hype.  
@@ -40,6 +40,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn.  
 - 2016, [Introduction to Process Mining with ProM](https://www.futurelearn.com/courses/process-mining), Technical Universty Eindhoven on FutureLearn (did not buy the soa). 
 - 2016, [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations), University of Washington on Coursera, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/N6CW3JGP76LE)
+- 2016, [Machine Learning: Regression.](https://www.coursera.org/learn/ml-regression) University of Washington on Coursera [Verified Certificate](https://www.coursera.org/account/accomplishments/records/SUZLZ4SSCBA7)
 
 ---
 ### Programming
