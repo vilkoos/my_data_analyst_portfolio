@@ -66,10 +66,20 @@ Udacities findings agree well with those of O'Neil and Schutt. So, using Udaciti
 
 Comparable information can be found elsewhere, e.g.:
 
+- The Yhat blog, [becoming a data scientist](http://blog.yhat.com/posts/become-a-data-scientist.html)
 - dataCamp, [how to become a data scientist](http://i1.wp.com/blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)  
 - Becoming a Data Scientist – [Curriculum via Metromap](http://nirvacana.com/thoughts/becoming-a-data-scientist/)
 - Gill Press, [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 - Analytics Vidhya [The Ultimate Plan to Become a Data Scientist in 2016](http://www.analyticsvidhya.com/blog/2016/01/ultimate-plan-data-scientist-2016/) (also have a look at the [resources](http://www.analyticsvidhya.com/ultimate-plan-data-scientist-2016/) page)
+
+
+## Data science according to Granville.
+
+[Vincent Granville](http://www.datasciencecentral.com/profile/VincentGranville) publishes with great regularity on  [Data Science Central](http://www.datasciencecentral.com/).  
+What makes him special is that he is a very experienced all-round business intelligence practitioner.  
+Have a look at his: 
+- [What is Data Science?](http://www.datasciencecentral.com/profiles/blogs/20-articles-about-core-data-science). 24 Fundamental Articles Answering This Question
+
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
@@ -95,7 +105,7 @@ But there is clearly still some work to do.
 - a data scientist is someone how knows more about statistics than any computer scientist, and more about computer science than any statistician
 - a data scientist is a statistician who lives in the San Francisco area
 
-are true, but there is more to it than just that (although the second definition beautifully captures the deep truths that it the whole business is seriously over-hyped and that there is very little to it that is really new)  
+are true, but there is more to it than just that (although the second definition beautifully captures the deep truths that the whole business is seriously over-hyped and that there is very little to it that is really new)  
 
 (3) strictly speaking I never got a masters. I got, what in Dutch is called, a doctoral degree (I'm not a MA or a Msc but a Drs. - actually a Drs.ing) NB, a doctoral degree is not a doctors degree; it translates as doctor-to-be, all I have to do is to write a dissertation and then I loose the 's' and be a Dr. In 1988 the EU switched to the Anglo Saxon bachelor/master system, the Dutch Drs. became defunct and was replaced by the masters title (and I could add; the length of the program I did was reduced by one year, so Drs = Msc + 1, or for C style programmers Drs = Msc++). Whatever you think about these innovations, one thing is sure. I can proudly claim to be a certified "old Dutch Master".  
 
