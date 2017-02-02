@@ -41,7 +41,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2016, [Introduction to Process Mining with ProM](https://www.futurelearn.com/courses/process-mining), Technical Universty Eindhoven on FutureLearn (did not buy the soa). 
 - 2016, [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations), University of Washington on Coursera, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/N6CW3JGP76LE)
 - 2016, [Machine Learning: Regression.](https://www.coursera.org/learn/ml-regression) University of Washington on Coursera [Verified Certificate](https://www.coursera.org/account/accomplishments/records/SUZLZ4SSCBA7)
-- 2017, [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) University of Washington on Coursera [Verified Certificate](https://www.coursera.org/account/accomplishments/records/RCFFLLLE49ER7)
+- 2017, [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) University of Washington on Coursera [Verified Certificate](https://www.coursera.org/account/accomplishments/records/RCFFLLLE49ER)
 
 ---
 ### Programming
