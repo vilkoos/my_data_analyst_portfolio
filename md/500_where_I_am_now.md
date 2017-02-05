@@ -67,6 +67,7 @@ Udacities findings agree well with those of O'Neil and Schutt. So, using Udaciti
 Comparable information can be found elsewhere, e.g.:
 
 - The Yhat blog, [becoming a data scientist](http://blog.yhat.com/posts/become-a-data-scientist.html)
+- Springboard, [Podcasts, Twitter, and Newsletters: Rounding out your data science education](https://www.springboard.com/resources/data-science-podcasts-newsletters/)
 - dataCamp, [how to become a data scientist](http://i1.wp.com/blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)  
 - Becoming a Data Scientist – [Curriculum via Metromap](http://nirvacana.com/thoughts/becoming-a-data-scientist/)
 - Gill Press, [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
