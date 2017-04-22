@@ -73,6 +73,11 @@ Comparable information can be found elsewhere, e.g.:
 - Gill Press, [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 - Analytics Vidhya [The Ultimate Plan to Become a Data Scientist in 2016](http://www.analyticsvidhya.com/blog/2016/01/ultimate-plan-data-scientist-2016/) (also have a look at the [resources](http://www.analyticsvidhya.com/ultimate-plan-data-scientist-2016/) page)
 
+## The Open Source Data Science Masters
+[The Open Source Data Science Masters](http://datasciencemasters.org/) specifies a curriculum for Data Science.  
+This specification can be read as an implicit definition.   
+**Note** this site contains many links to useful resources. 
+
 ## Data Science according to the EDISON Data Science Framework
 [EDISON Project](http://edison-project.eu/edison/edison-project)
 The Horizon 2020 EDISON project (1 September 2015 – 31 August 2017) aims to establish the data scientist as a profession. This will be achieved by aligning industry needs with available career paths, and supporting academies in reviewing their curricula with respect to expected profiles, required expertise and professional certification. This will result in a significant increase in the number and quality of data scientists graduating from universities and being trained by other professional education and training institutions in Europe.
