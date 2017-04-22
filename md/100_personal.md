@@ -1,5 +1,5 @@
 
-#personal
+# personal
 
 ![](http://i.imgur.com/SHvdqUV.jpg)
 
@@ -11,14 +11,14 @@
 
 **hero to model myself on**: [Herbert Alexander Simon](http://en.wikipedia.org/wiki/Herbert_A._Simon "simon") (his [Nobel prize bio)](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-bio.html "nobel simon")
 
-##where I came from
+## where I came from
 ![](http://i.imgur.com/w5FJng0.jpg)
 
-##where I'm now
+## where I'm now
 ![](http://i.imgur.com/sdsyfB6.jpg)
 
 
-##Favourites  
+## Favourites  
 (movie) [Apocalypse now](https://www.facebook.com/ApocalypseNowMovie?fb_action_ids=1392445307677777&fb_action_types=video.watches&fb_source=other_multiline&action_object_map=%5B132187376810512%5D&action_type_map=%5B%22video.watches%22%5D&action_ref_map=%5B%5D&fb_collection_id=46&ref=profile)  
 (movie) [Playtime](https://en.wikipedia.org/wiki/Playtime)  
 (book-) Simon, Herbert.A., [Administrative Behaviour](http://www.goodreads.com/book/show/155253.Administrative_Behavior?action_object_map=%5B404550862944594%5D&action_ref_map=%5B%5D&action_type_map=%5B%22books.reads%22%5D&fb_action_ids=1414322568823384&fb_action_types=books.reads&fb_collection_id=14&fb_source=other_multiline&ref=profile)  

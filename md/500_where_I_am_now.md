@@ -93,6 +93,10 @@ What makes him special is that he is a very experienced all-round business intel
 Have a look at his: 
 - [What is Data Science?](http://www.datasciencecentral.com/profiles/blogs/20-articles-about-core-data-science). 24 Fundamental Articles Answering This Question
 
+## Story by data
+
+Kate Strachnyi is a professional risk manager who has the ambition to become a data scientist. She shares her transitional adventures with us on her website [Story by data](http://storybydata.com/)
+
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
