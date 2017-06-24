@@ -14,7 +14,7 @@ The respected data scientist [Drew Conway](http://drewconway.com/) explains it a
 
 ![](http://i.imgur.com/tGTySSb.jpg)
 
-According to Conway data science is a harmonious mix of: statistics, computer science and subject matters expertise. To be a data scientist is to be a jack of at least these three trades(2) (for a critique see 6). 
+According to Conway data science is a harmonious mix of: statistics, computer science and subject matters expertise. To be a data scientist is to be a jack of at least these three trades(2) (for a critique see 6 and 10). 
 
 I like this figure as a high level 'definition'.  
 
@@ -148,6 +148,8 @@ For others Conway is too permissive, perfect data scientist also should have goo
 
 To do the extracting you have to know a lot about computer science and mathematics. 
 But to know what counts as knowledge - first and above all else - you have to have subject matter expertise.  
-Hence, subject matter knowledge like Business, Medicine or Engineering is the biggest skill a data scientist should have. 
+Hence, subject matter knowledge like Business, Medicine or Engineering is the biggest skill a data scientist should have.
+
+(10) David Taylor, [battle-of-data-science-venn-diagrams](http://www.prooffreader.com/2016/09/battle-of-data-science-venn-diagrams.html), on www.proofreader.com  
   
  
