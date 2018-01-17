@@ -70,3 +70,4 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2016, [Towards Brexit? The UK's EU Referendum](https://www.futurelearn.com/courses/eu-referendum), University of Edinburgh on FutureLearn (did not buy the soa).
 - 2016, [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory), University of Amsterdam on Coursera (did not buy the soa)
 - 2016, [Constitutional Struggles in the Muslim World](https://www.coursera.org/learn/muslim-world), University of Copenhagen on Coursera (did not buy the soa).
+- 2016, [After the Arab Spring – Democratic Aspirations and State Failure](https://www.coursera.org/learn/after-the-arab-spring), University of Copenhagen on Coursera (did not buy the soa).

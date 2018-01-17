@@ -91,17 +91,19 @@ The Horizon 2020 EDISON project (1 September 2015 – 31 August 2017) aims to es
 
 
 
-## Data science according to Granville.
+## Data science according to Data Science Central.
 
 [Vincent Granville](http://www.datasciencecentral.com/profile/VincentGranville) publishes with great regularity on  [Data Science Central](http://www.datasciencecentral.com/).  
 What makes him special is that he is a very experienced all-round business intelligence practitioner.  
 Have a look at his: 
 - [What is Data Science?](http://www.datasciencecentral.com/profiles/blogs/20-articles-about-core-data-science). 24 Fundamental Articles Answering This Question
 
-## Story by data
+![DS evolution](https://api.ning.com/files/N82BGgaL3u2KYCc4wQA16LnqHv4Cj44YfRLpix7*UEuDo-riGovFhEJ38hA7CQs4j732uuhdOwal8hVR0hp0u3mf-uFwbeNC/DSevolutionwlabelslarge.png)
 
-Kate Strachnyi is a professional risk manager who has the ambition to become a data scientist. She shares her transitional adventures with us on her website [Story by data](http://storybydata.com/)
+[William Vorhies](https://www.datasciencecentral.com/profile/WilliamVorhies) gives an other practice inspired description of different types of data scientist and the needed education for each of these types.
+- [The New Rules for Becoming a Data Scientist](https://www.datasciencecentral.com/profiles/blogs/the-new-rules-for-becoming-a-data-scientist) 
 
+![types of data-scientist](https://api.ning.com/files/N82BGgaL3u1n8BgtDbEn9A8GnbYv2f*3uekUI38d7-Vzt9hdOig50-Jbz5QzxoFlpGhkRBIEC2KvZW0ydBnVC*Za7ruUQ7ZO/analyzingtheanalyzers.png?width=600)
 
 ## What kind of data scientist? 
 We can conclude that data science is a very broad field. This field can be partitioned in several ways.  
