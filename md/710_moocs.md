@@ -29,7 +29,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2015, [Developing Data Products](https://www.coursera.org/course/devdataprod), Johns Hopkins on Coursera, soa with distinction,[Verified Certificate](https://www.coursera.org/account/accomplishments/records/VJWLvEKfjy6j8Yqf)
 - 2015, [Learn to code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) The Open University on FutureLearn, completed.
 - 2016, [Data science capstone project](https://www.coursera.org/learn/data-science-project/) Johns Hopkins on Coursera, soa with distinction, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/aZecNF2HAfVwpeSu)
-- 2016, [Big Data Analytics](https://www.futurelearn.com/programs/big-data-analytics?utm_source=FL_DB&utm_medium=crm&utm_campaign=01_08_2016_FL_newsletter&utm_content=text), Queensland University of Technology on FutureLearn (did the four mini-courses, did not buy a soa) 
+- 2016, [Big Data Analytics](https://www.futurelearn.com/programs/big-data-analytics?utm_source=FL_DB&utm_medium=crm&utm_campaign=01_08_2016_FL_newsletter&utm_content=text), Queensland University of Technology on FutureLearn (four mini-courses) 
 
 ---
 ### Machine Learning/ text and data mining
@@ -38,7 +38,7 @@ A verified certificate is the same, but with identity checking by web-cam and ty
   **Note** this was in October 2011, i.e. one of the three Stanford courses that triggerd the MOOC hype.  
   I have included the link to the soa as a curiosity (only about 5000 people got one) 
 - 2014, [Corpus Linguistics: Method, Analysis, Interpretation](https://www.futurelearn.com/courses/corpus-linguistics/), Lancaster University on Futurelearn.  
-- 2016, [Introduction to Process Mining with ProM](https://www.futurelearn.com/courses/process-mining), Technical Universty Eindhoven on FutureLearn (did not buy the soa). 
+- 2016, [Introduction to Process Mining with ProM](https://www.futurelearn.com/courses/process-mining), Technical Universty Eindhoven on FutureLearn. 
 - 2016, [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations), University of Washington on Coursera, [Verified Certificate](https://www.coursera.org/account/accomplishments/records/N6CW3JGP76LE)
 - 2016, [Machine Learning: Regression.](https://www.coursera.org/learn/ml-regression) University of Washington on Coursera [Verified Certificate](https://www.coursera.org/account/accomplishments/records/SUZLZ4SSCBA7)
 - 2017, [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) University of Washington on Coursera [Verified Certificate](https://www.coursera.org/account/accomplishments/records/RCFFLLLE49ER)
@@ -51,24 +51,25 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 
 ---
 ### HTML, CSS, JS
-- 2016, [Introduction to HTML5](https://www.coursera.org/learn/html), University of Michigan on Coursera (did not buy the soa).
-- 2016, [Introduction to CSS3](https://www.coursera.org/learn/introcss), University of Michigan on Coursera (did not buy the soa).
-- 2016, [Interactivity with JavaScript](https://www.coursera.org/learn/javascript), University of Michigan on Coursera (did not buy the soa).
-- 2016, [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign), University of Michigan on Coursera (did not buy the soa).
-- 2016, [HTML5 Introduction](https://www.edx.org/course/html5-introduction-w3cx-html5-0x), w3c on edX (did not buy the soa).
+- 2016, [Introduction to HTML5](https://www.coursera.org/learn/html), University of Michigan on Coursera.
+- 2016, [Introduction to CSS3](https://www.coursera.org/learn/introcss), University of Michigan on Coursera.
+- 2016, [Interactivity with JavaScript](https://www.coursera.org/learn/javascript), University of Michigan on Coursera.
+- 2016, [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign), University of Michigan on Coursera.
+- 2016, [HTML5 Introduction](https://www.edx.org/course/html5-introduction-w3cx-html5-0x), w3c on edX .
 
 ---
-### politics / history / policy / law
+### politics / history / law
 
 - 2013, [Democratic Development](https://www.coursera.org/course/democraticdev), Stanford on Coursera, completed with soa. 
 - 2013, [A Brief History of Humankind](https://www.coursera.org/course/humankind), Hebrew University of Jerusalem on Coursera, completed with soa.
 - 2014, [The Modern World: Global History since 1760](https://www.coursera.org/course/modernworld), University of Virginia on Coursera, soa with distinction.
 - 2014, [The French Revolution](https://www.coursera.org/course/frenchrev), University of Melbourne on Coursera, soa with distinction.
 - 2014, [Configuring the World: A Critical Political Economy Approach](https://www.coursera.org/course/configuringworld), Leiden University on Coursera, soa with distinction.
-- 2015, [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics), Yale University on Coursera (final grade: 92.10000000000001% according to the Coursera computer)
-- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera (did not buy the soa).
-- 2016, [Towards Brexit? The UK's EU Referendum](https://www.futurelearn.com/courses/eu-referendum), University of Edinburgh on FutureLearn (did not buy the soa).
-- 2016, [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory), University of Amsterdam on Coursera (did not buy the soa)
-- 2016, [Constitutional Struggles in the Muslim World](https://www.coursera.org/learn/muslim-world), University of Copenhagen on Coursera (did not buy the soa).
-- 2016, [After the Arab Spring – Democratic Aspirations and State Failure](https://www.coursera.org/learn/after-the-arab-spring), University of Copenhagen on Coursera (did not buy the soa).
-- 2018, [Understanding the General Data Protection Regulation](https://www.futurelearn.com/courses/general-data-protection-regulation), University of Groningen on FutureLearn (did not buy the soa).
+- 2015, [Moral Foundations of Politics](https://www.coursera.org/learn/moral-politics), Yale University on Coursera  
+ (final grade: 92.10000000000001% according to the Coursera computer)
+- 2015, [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history), Macquarie University on Coursera.
+- 2016, [Towards Brexit? The UK's EU Referendum](https://www.futurelearn.com/courses/eu-referendum), University of Edinburgh on FutureLearn.
+- 2016, [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory), University of Amsterdam on Coursera
+- 2016, [Constitutional Struggles in the Muslim World](https://www.coursera.org/learn/muslim-world), University of Copenhagen on Coursera.
+- 2016, [After the Arab Spring – Democratic Aspirations and State Failure](https://www.coursera.org/learn/after-the-arab-spring), University of Copenhagen on Coursera.
+- 2018, [Understanding the General Data Protection Regulation](https://www.futurelearn.com/courses/general-data-protection-regulation), University of Groningen on FutureLearn.
