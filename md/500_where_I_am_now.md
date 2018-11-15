@@ -48,6 +48,18 @@ Some competencies are already OK.
 
 According to the logic of O'Neil and Schutt I'm clearly on my way to being a data annalist. However there are some areas that still need work. 
 
+## The data science life cycle according to Berkeley
+
+According to [Berkeley](https://datascience.berkeley.edu/about/what-is-data-science/):
+
+> In order to uncover useful intelligence for their organizations, data scientists must master the full spectrum of the data science life cycle and possess a level of flexibility and understanding to maximize returns at each phase of the process 
+
+![figx](https://cdn3.datascience.berkeley.edu/content/0be56de3069740669fe2d696fb60220e/DataScienceLifeCycle.jpg)
+
+> The image represents the five stages of the data science life cycle: Capture, (data acquisition, data entry, signal reception, data extraction); Maintain (data warehousing, data cleansing, data staging, data processing, data architecture); Process (data mining, clustering/classification, data modelling, data stigmatization); Analyse (exploratory/confirmatory, predictive analysis, regression, text mining, qualitative analysis); Communicate (data reporting, data visualization, business intelligence, decision making).
+
+Imho this diagram illustrates an important idea. Data science consists of not only the steps process and analyse, the steps capture, maintain and communicate are integral to the process also.   
+
 ## Data science according to Udacity
 
 ![fig3](http://i.imgur.com/I7dlLPD.jpg)
