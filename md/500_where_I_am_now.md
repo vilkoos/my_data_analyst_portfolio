@@ -90,6 +90,16 @@ Comparable information can be found elsewhere, e.g.:
 This specification can be read as an implicit definition.   
 **Note** this site contains many links to useful resources. 
 
+## The Open Source Society University path to data science
+
+The OSSU (Open Source Society University) has published [a list of MOOC's](https://github.com/ossu/data-science) that taken in sequence is equivalent to an USA Bsc in data science.
+
+Imho, this curriculum is the thing to go for when you want to replicate studying at a top university. Many of the the moocs were designed for those who excel at AP's for stem subjects and have an iron work ethic.    
+
+** Warning 1 **: the choice of MOOCs is optimized for institutional reputation (e.g. lots of MIT and Stanford courses), definitely not optimized for pedagogy or avoiding unnecessary steep learning curves. If you are not so sure about your superstar qualities, I recommend you have a good look at [Udacity](https://www.udacity.com) (which does not optimise for "I studied at MIT", but for "I work at Google"). 
+
+** Warning 2 **: the curriculum has a big-data and computer-science bias (e.g. there is nothing about data visualisation, business intelligence or how to do practical statistical analysis, it is mainly about the underlying mathematics and algorithms - great when you want to push the boundaries, not so great when you are mainly interested in extracting value from data -)  
+
 ## Data Science according to the EDISON Data Science Framework
 [EDISON Project](http://edison-project.eu/edison/edison-project)
 The Horizon 2020 EDISON project (1 September 2015 – 31 August 2017) aims to establish the data scientist as a profession. This will be achieved by aligning industry needs with available career paths, and supporting academies in reviewing their curricula with respect to expected profiles, required expertise and professional certification. This will result in a significant increase in the number and quality of data scientists graduating from universities and being trained by other professional education and training institutions in Europe.
