@@ -31,33 +31,30 @@ Futurelearn has a statistics course centred around a very nice data exploration 
 ### Python for data analysis
 Learn to work with Python, pandas, scipy and iPython by,  
 
-- **busy** . . work through: [Python for data analysis](http://www.amazon.co.uk/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=sr_1_1?s=books&ie=UTF8&qid=1420115197&sr=1-1&keywords=python+for+data+analysis)
+- **done** . . work through: [Python for data analysis](http://www.amazon.co.uk/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=sr_1_1?s=books&ie=UTF8&qid=1420115197&sr=1-1&keywords=python+for+data+analysis)
 - **done** . . complete [Learn to Code for Data Analysis](https://www.futurelearn.com/courses/learn-to-code) from the OU on FutureLearn
-- **busy** . . complete [Learning Python for Data Analysis and Visualization](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/#/) on Udemy.
+- **done** . . complete an equivalent of [Learning Python for Data Analysis and Visualization](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/#/) on Udemy.
 
-### Data Science at the command line
-Master the set of command line tools for acquiring, cleaning, processing and presenting data by,  
-**todo** . . work through: [Data science at the command line]() 
-
-### Finish Udacties [Data Analyst Nanodegree](https://www.udacity.com/course/nd002)
+### Finish Udacities [Data Analyst Nanodegree](https://www.udacity.com/course/nd002)
 (start after the above is completed, todo!=do certainly, todo?=check added value before starting)
 - **todo?** . . Intro to Data Science
 - **todo!** . . Data Wrangling with MongoDB
 - **todo?** . . Data Analysis with R
 - **todo?** . . Intro to Machine Learning
 - **todo!** . . Data Visualization
+Done this in a non-Udacity form (MongoDB yet to finish)
 
 ----
 
 ## 2 - deepen/refresh theory
 
 review of relevant theory: probability, basic distributions and Analysis of variance  
-- **busy** . . work trough chapter 1..14 of: [An introduction to mathematical statistics](http://www.amazon.co.uk/Introduction-Mathematical-Statistics-Its-Applications/dp/0321766563/ref=sr_1_2?ie=UTF8&qid=1420129515&sr=8-2&keywords=an+introduction+to+mathematical+statistics+and+its+applications)  
-- **busy** . . edX [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0).
-- **busy** . . An [Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+- **done** . . work trough chapter 1..14 of: [An introduction to mathematical statistics](http://www.amazon.co.uk/Introduction-Mathematical-Statistics-Its-Applications/dp/0321766563/ref=sr_1_2?ie=UTF8&qid=1420129515&sr=8-2&keywords=an+introduction+to+mathematical+statistics+and+its+applications)  
+- **aborted** . . edX [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0).
+- **done** . . An [Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 
 review of linear algebra  
-**todo** . . review relevant materials of [UK Open university](http://www.amazon.co.uk/University-Mathematics-Second-Course-Introduction/dp/B005DL6E24)
+**done** . . review relevant materials of [UK Open university](http://www.amazon.co.uk/University-Mathematics-Second-Course-Introduction/dp/B005DL6E24)
 
 information theory  
 **todo** . . the Coursera course [information theory](https://www.coursera.org/course/informationtheory)
@@ -66,5 +63,5 @@ information theory
 
 ## 3 - build portfolio of projects
 
-to come
+Some "simple" projects to start: [8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 
