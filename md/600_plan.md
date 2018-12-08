@@ -42,6 +42,7 @@ Learn to work with Python, pandas, scipy and iPython by,
 - **todo?** . . Data Analysis with R
 - **todo?** . . Intro to Machine Learning
 - **todo!** . . Data Visualization
+
 Done this in a non-Udacity form (MongoDB yet to finish)
 
 ----
