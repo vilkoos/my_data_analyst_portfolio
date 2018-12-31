@@ -85,6 +85,18 @@ Comparable information can be found elsewhere, e.g.:
 - Gill Press, [A Very Short History Of Data Science](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 - Analytics Vidhya [The Ultimate Plan to Become a Data Scientist in 2016](http://www.analyticsvidhya.com/blog/2016/01/ultimate-plan-data-scientist-2016/) (also have a look at the [resources](http://www.analyticsvidhya.com/ultimate-plan-data-scientist-2016/) page)
 
+## Data Science roles: analyst, scientist or engineer
+
+On Quora, Sean McClure describes three widely used [data science roles](https://www.quora.com/What-is-the-difference-between-a-data-analyst-and-a-data-scientist-1): data analyst, data scientist and data engineer.
+
+- The **Data Analyst** typically runs queries against new data to find trends important for the organization
+- The **Data Scientist** is primarily tasked with building models using machine learning.
+- The **Data Engineer** takes what is created in the “lab” and helps put it into production.
+
+Each role requires different levels of skills:
+
+![data sci role skill levels](https://qph.fs.quoracdn.net/main-qimg-a8b08aa785911d1071cbe14899971cd1)
+
 ## The Open Source Data Science Masters
 [The Open Source Data Science Masters](http://datasciencemasters.org/) specifies a curriculum for Data Science.  
 This specification can be read as an implicit definition.   
