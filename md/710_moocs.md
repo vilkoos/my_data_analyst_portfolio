@@ -50,6 +50,11 @@ A verified certificate is the same, but with identity checking by web-cam and ty
 - 2015, [DAT204x Introduction to R programming](https://www.edx.org/course/introduction-r-programming-microsoft-dat204x-0), Microsoft on edX. 
 
 ---
+### Databases
+
+- 2019, [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about), MongoDB University, [certificate](https://university.mongodb.com/course_completion/a6a8b1c9-f260-4014-b08b-8f334507)  
+
+---
 ### HTML, CSS, JS
 - 2016, [Introduction to HTML5](https://www.coursera.org/learn/html), University of Michigan on Coursera.
 - 2016, [Introduction to CSS3](https://www.coursera.org/learn/introcss), University of Michigan on Coursera.
