@@ -48,6 +48,7 @@ Some competencies are already OK.
 
 According to the logic of O'Neil and Schutt I'm clearly on my way to being a data annalist. However there are some areas that still need work. 
 
+
 ## The data science life cycle according to Berkeley
 
 According to [Berkeley](https://datascience.berkeley.edu/about/what-is-data-science/):
@@ -96,6 +97,31 @@ On Quora, Sean McClure describes three widely used [data science roles](https://
 Each role requires different levels of skills:
 
 ![data sci role skill levels](https://qph.fs.quoracdn.net/main-qimg-a8b08aa785911d1071cbe14899971cd1)
+
+## Data science as a team sport
+
+In 2020 - Almost 10 years after the initial data science hype - Bill Schmarzo  [published](https://www.datasciencecentral.com/profiles/blogs/why-the-concept-of-citizen-data-scientist-terrifies-me) as part of his big data MBA thinking two insightful graphics.
+
+![the data science team](https://storage.ning.com/topology/rest/1.0/file/get/3824331895?profile=original)
+
+In this figure the mythical data-science-unicorn is replaced by a team of:
+
+- data engineers that create data-pipelines that collect, clean and reorganize the data in production.
+- data scientists (in the narrow sense) that select/create and tune computational models that process the data the engineers collected.
+- business stake holders that align the model definition and results with the business needs.
+
+Moral: we do not need a superstar, we need a baseball team.
+
+The roles and responsibilities of the team are specified in the figure below.
+
+![the data science team roles](https://storage.ning.com/topology/rest/1.0/file/get/3824332272?profile=original) 
+
+Here the "data scientist" specializes in creating efficient computational models that use machine learning (i.e. statistical programming at scale).
+
+Note that here data science is not so much about doing **useful** things with data as it is about doing **difficult** things with data.  
+Note also that the big data aspects are mainly delegated to the data engineers.
+
+One possible criticism on this view from a business perspective is that it limits the data science applications to much. It focusses on business intelligence and decision support. It does not cover the business process redesign potential. 
 
 ## The Open Source Data Science Masters
 [The Open Source Data Science Masters](http://datasciencemasters.org/) specifies a curriculum for Data Science.  
